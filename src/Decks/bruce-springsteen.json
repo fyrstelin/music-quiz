@@ -1,0 +1,3421 @@
+{
+  "name": "Bruce Springsteen",
+  "tracks": [
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Letter To You",
+      "title": "One Minute You're Here",
+      "url": "https://cdns-preview-5.dzcdn.net/stream/c-565b27b192aa6c60a7051e825c05c12e-3.mp3",
+      "rank": 503992,
+      "ids": {
+        "from": "deezer",
+        "track": 1113318562,
+        "album": 180546922,
+        "artist": 4762
+      },
+      "rating": 81
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Letter To You",
+      "title": "Letter To You",
+      "url": "https://cdns-preview-c.dzcdn.net/stream/c-cd347a223b972313bb56787fa2e0f735-3.mp3",
+      "rank": 556743,
+      "ids": {
+        "from": "deezer",
+        "track": 1113318572,
+        "album": 180546922,
+        "artist": 4762
+      },
+      "rating": 86
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Letter To You",
+      "title": "Burnin' Train",
+      "url": "https://cdns-preview-e.dzcdn.net/stream/c-e8077301c44b2d27bfedba42d7b956c9-3.mp3",
+      "rank": 520859,
+      "ids": {
+        "from": "deezer",
+        "track": 1113318582,
+        "album": 180546922,
+        "artist": 4762
+      },
+      "rating": 64
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Letter To You",
+      "title": "Janey Needs A Shooter",
+      "url": "https://cdns-preview-1.dzcdn.net/stream/c-15ad04ae60e37d9b51819a56c38b04c2-3.mp3",
+      "rank": 437833,
+      "ids": {
+        "from": "deezer",
+        "track": 1113318592,
+        "album": 180546922,
+        "artist": 4762
+      },
+      "rating": 70
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Letter To You",
+      "title": "Last Man Standing",
+      "url": "https://cdns-preview-3.dzcdn.net/stream/c-3bfb0eb5c6159a26bfee701597b9fa7d-3.mp3",
+      "rank": 429962,
+      "ids": {
+        "from": "deezer",
+        "track": 1113318602,
+        "album": 180546922,
+        "artist": 4762
+      },
+      "rating": 85
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Letter To You",
+      "title": "The Power Of Prayer",
+      "url": "https://cdns-preview-0.dzcdn.net/stream/c-0585e795856465751820ab0a154ecf1e-3.mp3",
+      "rank": 433349,
+      "ids": {
+        "from": "deezer",
+        "track": 1113318612,
+        "album": 180546922,
+        "artist": 4762
+      },
+      "rating": 54
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Letter To You",
+      "title": "House Of A Thousand Guitars",
+      "url": "https://cdns-preview-5.dzcdn.net/stream/c-5902de557deef0a78db26f8c5f70761f-3.mp3",
+      "rank": 452021,
+      "ids": {
+        "from": "deezer",
+        "track": 1113318622,
+        "album": 180546922,
+        "artist": 4762
+      },
+      "rating": 93
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Letter To You",
+      "title": "Rainmaker",
+      "url": "https://cdns-preview-a.dzcdn.net/stream/c-ad8f83f84a4f17412203f785cf567c2c-3.mp3",
+      "rank": 379726,
+      "ids": {
+        "from": "deezer",
+        "track": 1113318632,
+        "album": 180546922,
+        "artist": 4762
+      },
+      "rating": 65
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Letter To You",
+      "title": "If I Was The Priest",
+      "url": "https://cdns-preview-3.dzcdn.net/stream/c-30aec6831514cfdd150702ea364f5be5-3.mp3",
+      "rank": 405251,
+      "ids": {
+        "from": "deezer",
+        "track": 1113318642,
+        "album": 180546922,
+        "artist": 4762
+      },
+      "rating": 72
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Letter To You",
+      "title": "Ghosts",
+      "url": "https://cdns-preview-d.dzcdn.net/stream/c-d2f5e461c9e47b7fe070edfd007f67ba-3.mp3",
+      "rank": 489738,
+      "ids": {
+        "from": "deezer",
+        "track": 1113318652,
+        "album": 180546922,
+        "artist": 4762
+      },
+      "rating": 66
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Letter To You",
+      "title": "Song For Orphans",
+      "url": "https://cdns-preview-3.dzcdn.net/stream/c-38308049bbd38e51fda444341943b5fd-3.mp3",
+      "rank": 370581,
+      "ids": {
+        "from": "deezer",
+        "track": 1113318662,
+        "album": 180546922,
+        "artist": 4762
+      },
+      "rating": 68
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Letter To You",
+      "title": "I'll See You In My Dreams",
+      "url": "https://cdns-preview-9.dzcdn.net/stream/c-92cdb515349da116405d4a792e2b12b4-3.mp3",
+      "rank": 426593,
+      "ids": {
+        "from": "deezer",
+        "track": 1113318672,
+        "album": 180546922,
+        "artist": 4762
+      },
+      "rating": 36
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Western Stars",
+      "title": "Hitch Hikin'",
+      "url": "https://cdns-preview-b.dzcdn.net/stream/c-bc4b7e532ac62ce4d0d2ee12630c0511-5.mp3",
+      "rank": 368853,
+      "ids": {
+        "from": "deezer",
+        "track": 695792392,
+        "album": 100163032,
+        "artist": 4762
+      },
+      "rating": 5
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Western Stars",
+      "title": "The Wayfarer",
+      "url": "https://cdns-preview-8.dzcdn.net/stream/c-89bf35f39a4c942fe55543ff09d4f2f4-5.mp3",
+      "rank": 337771,
+      "ids": {
+        "from": "deezer",
+        "track": 695792402,
+        "album": 100163032,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Western Stars",
+      "title": "Tucson Train",
+      "url": "https://cdns-preview-9.dzcdn.net/stream/c-9567b4ce6a5bd8022d28e7d03d2cc2e2-5.mp3",
+      "rank": 393388,
+      "ids": {
+        "from": "deezer",
+        "track": 695792412,
+        "album": 100163032,
+        "artist": 4762
+      },
+      "rating": 26
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Western Stars",
+      "title": "Western Stars",
+      "url": "https://cdns-preview-4.dzcdn.net/stream/c-4406bb0d3fef6d319e35f1eb89bcdf4b-5.mp3",
+      "rank": 406042,
+      "ids": {
+        "from": "deezer",
+        "track": 695792422,
+        "album": 100163032,
+        "artist": 4762
+      },
+      "rating": 3
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Western Stars",
+      "title": "Sleepy Joe's Café",
+      "url": "https://cdns-preview-d.dzcdn.net/stream/c-d266c3086e225a06ecd54d7329b7870f-5.mp3",
+      "rank": 311780,
+      "ids": {
+        "from": "deezer",
+        "track": 695792432,
+        "album": 100163032,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Western Stars",
+      "title": "Drive Fast (The Stuntman)",
+      "url": "https://cdns-preview-e.dzcdn.net/stream/c-e28d0d5af53165ae15b104311b94419c-5.mp3",
+      "rank": 289013,
+      "ids": {
+        "from": "deezer",
+        "track": 695792442,
+        "album": 100163032,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Western Stars",
+      "title": "Chasin' Wild Horses",
+      "url": "https://cdns-preview-9.dzcdn.net/stream/c-9effe9f5771605c81cd82a0e3d60b119-5.mp3",
+      "rank": 289726,
+      "ids": {
+        "from": "deezer",
+        "track": 695792452,
+        "album": 100163032,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Western Stars",
+      "title": "Sundown",
+      "url": "https://cdns-preview-8.dzcdn.net/stream/c-8b7d7313c1903b2b99fc4e9ad5bcbbf3-5.mp3",
+      "rank": 314426,
+      "ids": {
+        "from": "deezer",
+        "track": 695792462,
+        "album": 100163032,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Western Stars",
+      "title": "Somewhere North of Nashville",
+      "url": "https://cdns-preview-f.dzcdn.net/stream/c-f27780c19cc7b9aedc8b6a03f3758e49-5.mp3",
+      "rank": 497438,
+      "ids": {
+        "from": "deezer",
+        "track": 695792472,
+        "album": 100163032,
+        "artist": 4762
+      },
+      "rating": 21
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Western Stars",
+      "title": "Stones",
+      "url": "https://cdns-preview-6.dzcdn.net/stream/c-66b02cf27ba77f23502de6aace979d21-5.mp3",
+      "rank": 300579,
+      "ids": {
+        "from": "deezer",
+        "track": 695792482,
+        "album": 100163032,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Western Stars",
+      "title": "There Goes My Miracle",
+      "url": "https://cdns-preview-1.dzcdn.net/stream/c-11161ba1126d2f7b37c761f7aca9fff3-5.mp3",
+      "rank": 377085,
+      "ids": {
+        "from": "deezer",
+        "track": 695792492,
+        "album": 100163032,
+        "artist": 4762
+      },
+      "rating": 6
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Western Stars",
+      "title": "Hello Sunshine",
+      "url": "https://cdns-preview-b.dzcdn.net/stream/c-ba446b72c0c5890ec62c7a0b6f83bf68-5.mp3",
+      "rank": 502514,
+      "ids": {
+        "from": "deezer",
+        "track": 695792502,
+        "album": 100163032,
+        "artist": 4762
+      },
+      "rating": 69
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Western Stars",
+      "title": "Moonlight Motel",
+      "url": "https://cdns-preview-0.dzcdn.net/stream/c-0f91f3b929fd496ff8baf17eab00784c-5.mp3",
+      "rank": 322646,
+      "ids": {
+        "from": "deezer",
+        "track": 695792512,
+        "album": 100163032,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "High Hopes",
+      "title": "High Hopes",
+      "url": "https://cdns-preview-f.dzcdn.net/stream/c-fe2a21323cd3243f17dab0e2e0fde249-5.mp3",
+      "rank": 385071,
+      "ids": {
+        "from": "deezer",
+        "track": 551936332,
+        "album": 72619982,
+        "artist": 4762
+      },
+      "rating": 37
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "High Hopes",
+      "title": "Harry's Place",
+      "url": "https://cdns-preview-7.dzcdn.net/stream/c-741653a74f51a01ef55315dc4308b105-5.mp3",
+      "rank": 179209,
+      "ids": {
+        "from": "deezer",
+        "track": 551936342,
+        "album": 72619982,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "High Hopes",
+      "title": "American Skin (41 Shots)",
+      "url": "https://cdns-preview-7.dzcdn.net/stream/c-73a7b25b1d8a593f2d4536e355a91293-5.mp3",
+      "rank": 302596,
+      "ids": {
+        "from": "deezer",
+        "track": 551936352,
+        "album": 72619982,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "High Hopes",
+      "title": "Just Like Fire Would",
+      "url": "https://cdns-preview-9.dzcdn.net/stream/c-9cbcacfa5c12569f498e53899bc06fa7-5.mp3",
+      "rank": 201365,
+      "ids": {
+        "from": "deezer",
+        "track": 551936362,
+        "album": 72619982,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "High Hopes",
+      "title": "Down in the Hole",
+      "url": "https://cdns-preview-f.dzcdn.net/stream/c-f05bb9ff7e5f61e3d5ae94c526dddadb-5.mp3",
+      "rank": 183027,
+      "ids": {
+        "from": "deezer",
+        "track": 551936372,
+        "album": 72619982,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "High Hopes",
+      "title": "Heaven's Wall",
+      "url": "https://cdns-preview-7.dzcdn.net/stream/c-7594d74b60446e3c26b3df99061c59be-5.mp3",
+      "rank": 192425,
+      "ids": {
+        "from": "deezer",
+        "track": 551936382,
+        "album": 72619982,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "High Hopes",
+      "title": "Frankie Fell in Love",
+      "url": "https://cdns-preview-b.dzcdn.net/stream/c-bc5e1ddc3397a6375ec9215f93f49e91-6.mp3",
+      "rank": 164407,
+      "ids": {
+        "from": "deezer",
+        "track": 551936392,
+        "album": 72619982,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "High Hopes",
+      "title": "This is Your Sword",
+      "url": "https://cdns-preview-e.dzcdn.net/stream/c-ecddf842e4f34119124148d26d0709f7-5.mp3",
+      "rank": 164741,
+      "ids": {
+        "from": "deezer",
+        "track": 551936402,
+        "album": 72619982,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "High Hopes",
+      "title": "Hunter of Invisible Game",
+      "url": "https://cdns-preview-a.dzcdn.net/stream/c-a76e0ca3662a079ef8857a54bb51526a-5.mp3",
+      "rank": 164769,
+      "ids": {
+        "from": "deezer",
+        "track": 551936412,
+        "album": 72619982,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "High Hopes",
+      "title": "The Ghost of Tom Joad",
+      "url": "https://cdns-preview-4.dzcdn.net/stream/c-4d1695666f451f404691622838adec7e-5.mp3",
+      "rank": 373941,
+      "ids": {
+        "from": "deezer",
+        "track": 551936422,
+        "album": 72619982,
+        "artist": 4762
+      },
+      "rating": 67
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "High Hopes",
+      "title": "The Wall",
+      "url": "https://cdns-preview-5.dzcdn.net/stream/c-5773b3624575c5d1bf2b6b2fdf9023f5-5.mp3",
+      "rank": 205854,
+      "ids": {
+        "from": "deezer",
+        "track": 551936432,
+        "album": 72619982,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "High Hopes",
+      "title": "Dream Baby Dream",
+      "url": "https://cdns-preview-b.dzcdn.net/stream/c-b482fd2e5a5d64a98aa56d3ea0543d06-5.mp3",
+      "rank": 315959,
+      "ids": {
+        "from": "deezer",
+        "track": 551936442,
+        "album": 72619982,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Wrecking Ball",
+      "title": "We Take Care of Our Own",
+      "url": "https://cdns-preview-f.dzcdn.net/stream/c-f389fb0fbaa588df86ed15b8f3937675-2.mp3",
+      "rank": 347152,
+      "ids": {
+        "from": "deezer",
+        "track": 16880921,
+        "album": 1578500,
+        "artist": 4762
+      },
+      "rating": 29
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Wrecking Ball",
+      "title": "Easy Money",
+      "url": "https://cdns-preview-1.dzcdn.net/stream/c-1acb341903a3a2085e044e1a208fbf49-2.mp3",
+      "rank": 160247,
+      "ids": {
+        "from": "deezer",
+        "track": 16881075,
+        "album": 1578500,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Wrecking Ball",
+      "title": "Shackled And Drawn",
+      "url": "https://cdns-preview-c.dzcdn.net/stream/c-c0fa38d8edd8461b682b56b2b8bfa15c-2.mp3",
+      "rank": 222583,
+      "ids": {
+        "from": "deezer",
+        "track": 16881228,
+        "album": 1578500,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Wrecking Ball",
+      "title": "Jack Of All Trades",
+      "url": "https://cdns-preview-8.dzcdn.net/stream/c-8433acf4615ffa28a40736fb404a9e6e-2.mp3",
+      "rank": 204491,
+      "ids": {
+        "from": "deezer",
+        "track": 16881558,
+        "album": 1578500,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Wrecking Ball",
+      "title": "Death To My Hometown",
+      "url": "https://cdns-preview-d.dzcdn.net/stream/c-d8223da17ebf090522d4ff42a565e8ce-2.mp3",
+      "rank": 214888,
+      "ids": {
+        "from": "deezer",
+        "track": 16881737,
+        "album": 1578500,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Wrecking Ball",
+      "title": "This Depression",
+      "url": "https://cdns-preview-5.dzcdn.net/stream/c-551dd69d3e494670e5a9684e9e634e83-2.mp3",
+      "rank": 161914,
+      "ids": {
+        "from": "deezer",
+        "track": 16881841,
+        "album": 1578500,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Wrecking Ball",
+      "title": "Wrecking Ball",
+      "url": "https://cdns-preview-1.dzcdn.net/stream/c-147cf5e652ba83cde8f0bbe59b644a5d-2.mp3",
+      "rank": 359177,
+      "ids": {
+        "from": "deezer",
+        "track": 16882103,
+        "album": 1578500,
+        "artist": 4762
+      },
+      "rating": 18
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Wrecking Ball",
+      "title": "You've Got It",
+      "url": "https://cdns-preview-5.dzcdn.net/stream/c-5e641f73822d08a94978d27cb6ad9729-2.mp3",
+      "rank": 146704,
+      "ids": {
+        "from": "deezer",
+        "track": 16882291,
+        "album": 1578500,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Wrecking Ball",
+      "title": "Rocky Ground",
+      "url": "https://cdns-preview-7.dzcdn.net/stream/c-7a7bc4041bc91fac1507f6b745f96109-2.mp3",
+      "rank": 211521,
+      "ids": {
+        "from": "deezer",
+        "track": 16882634,
+        "album": 1578500,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Wrecking Ball",
+      "title": "Land of Hope and Dreams",
+      "url": "https://cdns-preview-3.dzcdn.net/stream/c-364b57fbf247010cfa91050a6fa3be7b-2.mp3",
+      "rank": 247474,
+      "ids": {
+        "from": "deezer",
+        "track": 16883201,
+        "album": 1578500,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Wrecking Ball",
+      "title": "We Are Alive",
+      "url": "https://cdns-preview-e.dzcdn.net/stream/c-e913c4b81bd0a4f2cec5322d7ecf47b9-3.mp3",
+      "rank": 213895,
+      "ids": {
+        "from": "deezer",
+        "track": 16883768,
+        "album": 1578500,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Wrecking Ball",
+      "title": "Swallowed Up (In The Belly Of The Whale)",
+      "url": "https://cdns-preview-0.dzcdn.net/stream/c-047d7b1b436c22e4c15b2cdb04845fe2-3.mp3",
+      "rank": 145635,
+      "ids": {
+        "from": "deezer",
+        "track": 16884068,
+        "album": 1578500,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Wrecking Ball",
+      "title": "American Land",
+      "url": "https://cdns-preview-e.dzcdn.net/stream/c-efb47a9f6ab11c8dba5df81be0f2f2b8-3.mp3",
+      "rank": 298927,
+      "ids": {
+        "from": "deezer",
+        "track": 16884252,
+        "album": 1578500,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Working On A Dream",
+      "title": "Outlaw Pete",
+      "url": "https://cdns-preview-2.dzcdn.net/stream/c-251867897371066a80309232beb06602-5.mp3",
+      "rank": 259305,
+      "ids": {
+        "from": "deezer",
+        "track": 7741655,
+        "album": 714694,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Working On A Dream",
+      "title": "My Lucky Day",
+      "url": "https://cdns-preview-1.dzcdn.net/stream/c-1653e740a9ed7743173203e2090b6ea4-5.mp3",
+      "rank": 216469,
+      "ids": {
+        "from": "deezer",
+        "track": 7741656,
+        "album": 714694,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Working On A Dream",
+      "title": "Working On a Dream",
+      "url": "https://cdns-preview-e.dzcdn.net/stream/c-e18546b778d2bfe55a15a8d260065e0f-7.mp3",
+      "rank": 429029,
+      "ids": {
+        "from": "deezer",
+        "track": 7741657,
+        "album": 714694,
+        "artist": 4762
+      },
+      "rating": 27
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Working On A Dream",
+      "title": "Queen Of The Supermarket",
+      "url": "https://cdns-preview-f.dzcdn.net/stream/c-f283274b0fc3535840b2d15c6b2bbf4e-6.mp3",
+      "rank": 215417,
+      "ids": {
+        "from": "deezer",
+        "track": 7741658,
+        "album": 714694,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Working On A Dream",
+      "title": "What Love Can Do",
+      "url": "https://cdns-preview-2.dzcdn.net/stream/c-23fab9399c69f384d0d31f00b2a50186-5.mp3",
+      "rank": 191625,
+      "ids": {
+        "from": "deezer",
+        "track": 7741659,
+        "album": 714694,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Working On A Dream",
+      "title": "This Life",
+      "url": "https://cdns-preview-1.dzcdn.net/stream/c-1b878049bdb40166bf801a7c4652c4fb-5.mp3",
+      "rank": 218471,
+      "ids": {
+        "from": "deezer",
+        "track": 7741660,
+        "album": 714694,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Working On A Dream",
+      "title": "Good Eye",
+      "url": "https://cdns-preview-8.dzcdn.net/stream/c-8cc281badea3c81746e70f2eba3433b2-5.mp3",
+      "rank": 214579,
+      "ids": {
+        "from": "deezer",
+        "track": 7741661,
+        "album": 714694,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Working On A Dream",
+      "title": "Tomorrow Never Knows",
+      "url": "https://cdns-preview-f.dzcdn.net/stream/c-f7a4e131a13f87b8330a18fd624bd1b7-5.mp3",
+      "rank": 197339,
+      "ids": {
+        "from": "deezer",
+        "track": 7741662,
+        "album": 714694,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Working On A Dream",
+      "title": "Life Itself",
+      "url": "https://cdns-preview-4.dzcdn.net/stream/c-40fd20bea575cc1dbe1e6e47f64c4c59-6.mp3",
+      "rank": 198101,
+      "ids": {
+        "from": "deezer",
+        "track": 7741663,
+        "album": 714694,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Working On A Dream",
+      "title": "Kingdom Of Days",
+      "url": "https://cdns-preview-0.dzcdn.net/stream/c-098e223105285768854818a1e8c33ff7-6.mp3",
+      "rank": 221861,
+      "ids": {
+        "from": "deezer",
+        "track": 7741664,
+        "album": 714694,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Working On A Dream",
+      "title": "Surprise, Surprise",
+      "url": "https://cdns-preview-6.dzcdn.net/stream/c-6f1a4e098ea7c32a8e2d31c73f755f7e-5.mp3",
+      "rank": 174830,
+      "ids": {
+        "from": "deezer",
+        "track": 7741665,
+        "album": 714694,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Working On A Dream",
+      "title": "The Last Carnival",
+      "url": "https://cdns-preview-5.dzcdn.net/stream/c-5abe9f8dff093ff4c90eea1f9ecd7f8a-5.mp3",
+      "rank": 205875,
+      "ids": {
+        "from": "deezer",
+        "track": 7741666,
+        "album": 714694,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Working On A Dream",
+      "title": "The Wrestler",
+      "url": "https://cdns-preview-7.dzcdn.net/stream/c-7fa4abfa879d0b268126c42c742176d8-5.mp3",
+      "rank": 374727,
+      "ids": {
+        "from": "deezer",
+        "track": 7741667,
+        "album": 714694,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Magic",
+      "title": "Radio Nowhere",
+      "url": "https://cdns-preview-3.dzcdn.net/stream/c-35765fb4bb6533598c7522a55ec3d706-5.mp3",
+      "rank": 455833,
+      "ids": {
+        "from": "deezer",
+        "track": 440741952,
+        "album": 53451742,
+        "artist": 4762
+      },
+      "rating": 40
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Magic",
+      "title": "You'll Be Comin' Down",
+      "url": "https://cdns-preview-0.dzcdn.net/stream/c-0e28cfdc7964d5d76dcfad936e7ebb42-5.mp3",
+      "rank": 240415,
+      "ids": {
+        "from": "deezer",
+        "track": 440741962,
+        "album": 53451742,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Magic",
+      "title": "Livin' In the Future",
+      "url": "https://cdns-preview-e.dzcdn.net/stream/c-e1b759720719dda0b4cf42e35a5aef78-5.mp3",
+      "rank": 248251,
+      "ids": {
+        "from": "deezer",
+        "track": 440741972,
+        "album": 53451742,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Magic",
+      "title": "Your Own Worst Enemy",
+      "url": "https://cdns-preview-e.dzcdn.net/stream/c-e559f6fc8deeddaad36bb9b9b7ace585-5.mp3",
+      "rank": 197506,
+      "ids": {
+        "from": "deezer",
+        "track": 440741982,
+        "album": 53451742,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Magic",
+      "title": "Gypsy Biker",
+      "url": "https://cdns-preview-d.dzcdn.net/stream/c-df206213b73d3fe5abd01065cfe414f3-5.mp3",
+      "rank": 211709,
+      "ids": {
+        "from": "deezer",
+        "track": 440741992,
+        "album": 53451742,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Magic",
+      "title": "Girls In Their Summer Clothes",
+      "url": "https://cdns-preview-8.dzcdn.net/stream/c-81c9628e5047073cd8a00c7c23b51951-5.mp3",
+      "rank": 294307,
+      "ids": {
+        "from": "deezer",
+        "track": 440742002,
+        "album": 53451742,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Magic",
+      "title": "I'll Work for Your Love",
+      "url": "https://cdns-preview-4.dzcdn.net/stream/c-4f1792efb139d7a984748a1294e54af7-5.mp3",
+      "rank": 176863,
+      "ids": {
+        "from": "deezer",
+        "track": 440742012,
+        "album": 53451742,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Magic",
+      "title": "Magic",
+      "url": "https://cdns-preview-c.dzcdn.net/stream/c-c32bc4bd34aff358d653a82eff3145de-5.mp3",
+      "rank": 356195,
+      "ids": {
+        "from": "deezer",
+        "track": 440742022,
+        "album": 53451742,
+        "artist": 4762
+      },
+      "rating": 13
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Magic",
+      "title": "Last to Die",
+      "url": "https://cdns-preview-7.dzcdn.net/stream/c-7e4df75032ddbe6b7b017b29fee92828-5.mp3",
+      "rank": 183971,
+      "ids": {
+        "from": "deezer",
+        "track": 440742032,
+        "album": 53451742,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Magic",
+      "title": "Long Walk Home",
+      "url": "https://cdns-preview-e.dzcdn.net/stream/c-e53bc39e5726516780e27c79e73c73ef-5.mp3",
+      "rank": 260577,
+      "ids": {
+        "from": "deezer",
+        "track": 440742042,
+        "album": 53451742,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Magic",
+      "title": "Devil's Arcade",
+      "url": "https://cdns-preview-6.dzcdn.net/stream/c-63f4d0a71a90fe165ac2e4b5300077a1-5.mp3",
+      "rank": 204316,
+      "ids": {
+        "from": "deezer",
+        "track": 440742052,
+        "album": 53451742,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Magic",
+      "title": "Terry's Song",
+      "url": "https://cdns-preview-2.dzcdn.net/stream/c-21e048639cdd1a94cf8a47da63551849-5.mp3",
+      "rank": 189929,
+      "ids": {
+        "from": "deezer",
+        "track": 440742062,
+        "album": 53451742,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "We Shall Overcome: The Seeger Sessions",
+      "title": "Old Dan Tucker",
+      "url": "https://cdns-preview-7.dzcdn.net/stream/c-77f1f3bdac21f814910922d374538a2d-7.mp3",
+      "rank": 323660,
+      "ids": {
+        "from": "deezer",
+        "track": 563600,
+        "album": 73443,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "We Shall Overcome: The Seeger Sessions",
+      "title": "Jesse James (Just Ask)",
+      "url": "https://cdns-preview-5.dzcdn.net/stream/c-5d72bc87268c9ef96b56acad6d2b5f7b-8.mp3",
+      "rank": 265158,
+      "ids": {
+        "from": "deezer",
+        "track": 563601,
+        "album": 73443,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "We Shall Overcome: The Seeger Sessions",
+      "title": "Mrs. McGrath",
+      "url": "https://cdns-preview-6.dzcdn.net/stream/c-6e0b436eba9a610b112a33cf516482fc-9.mp3",
+      "rank": 308353,
+      "ids": {
+        "from": "deezer",
+        "track": 563602,
+        "album": 73443,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "We Shall Overcome: The Seeger Sessions",
+      "title": "O Mary Don't You Weep",
+      "url": "https://cdns-preview-0.dzcdn.net/stream/c-0cc249b93d5a715e8bbc4c3c4da2283e-7.mp3",
+      "rank": 380108,
+      "ids": {
+        "from": "deezer",
+        "track": 563603,
+        "album": 73443,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "We Shall Overcome: The Seeger Sessions",
+      "title": "John Henry",
+      "url": "https://cdns-preview-a.dzcdn.net/stream/c-a0d7a19ca25a2dfbe147b7a4d1145a72-6.mp3",
+      "rank": 259816,
+      "ids": {
+        "from": "deezer",
+        "track": 563604,
+        "album": 73443,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "We Shall Overcome: The Seeger Sessions",
+      "title": "Erie Canal",
+      "url": "https://cdns-preview-b.dzcdn.net/stream/c-b6cc869d69e7759163ed11e76b7fd8bc-7.mp3",
+      "rank": 296079,
+      "ids": {
+        "from": "deezer",
+        "track": 563605,
+        "album": 73443,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "We Shall Overcome: The Seeger Sessions",
+      "title": "Jacob's Ladder",
+      "url": "https://cdns-preview-b.dzcdn.net/stream/c-b5be8cd47dcfaa6fae432ba918952a4b-7.mp3",
+      "rank": 245907,
+      "ids": {
+        "from": "deezer",
+        "track": 563606,
+        "album": 73443,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "We Shall Overcome: The Seeger Sessions",
+      "title": "My Oklahoma Home",
+      "url": "https://cdns-preview-8.dzcdn.net/stream/c-8dee07f3b29bddeb11158ebc6851c791-8.mp3",
+      "rank": 247840,
+      "ids": {
+        "from": "deezer",
+        "track": 563607,
+        "album": 73443,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "We Shall Overcome: The Seeger Sessions",
+      "title": "Eyes on the Prize",
+      "url": "https://cdns-preview-d.dzcdn.net/stream/c-dfd2bb6737ca5f48882ce071fa623c30-8.mp3",
+      "rank": 268540,
+      "ids": {
+        "from": "deezer",
+        "track": 563608,
+        "album": 73443,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "We Shall Overcome: The Seeger Sessions",
+      "title": "Shenandoah",
+      "url": "https://cdns-preview-6.dzcdn.net/stream/c-63fc98a9afafb2bfd51ab9628d365d5c-8.mp3",
+      "rank": 307672,
+      "ids": {
+        "from": "deezer",
+        "track": 563609,
+        "album": 73443,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "We Shall Overcome: The Seeger Sessions",
+      "title": "Pay Me My Money Down",
+      "url": "https://cdns-preview-6.dzcdn.net/stream/c-65be2b9158263e262915a3ec773d7a8a-6.mp3",
+      "rank": 380531,
+      "ids": {
+        "from": "deezer",
+        "track": 563610,
+        "album": 73443,
+        "artist": 4762
+      },
+      "rating": 46
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "We Shall Overcome: The Seeger Sessions",
+      "title": "We Shall Overcome",
+      "url": "https://cdns-preview-6.dzcdn.net/stream/c-6cfe7d1b6b8d33fb5ffd8eaed0d8d83d-7.mp3",
+      "rank": 274460,
+      "ids": {
+        "from": "deezer",
+        "track": 563611,
+        "album": 73443,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "We Shall Overcome: The Seeger Sessions",
+      "title": "Froggie Went a Courtin'",
+      "url": "https://cdns-preview-2.dzcdn.net/stream/c-2692f5324f2dbd12f8eda6db0c667fbd-6.mp3",
+      "rank": 221246,
+      "ids": {
+        "from": "deezer",
+        "track": 563612,
+        "album": 73443,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "We Shall Overcome: The Seeger Sessions",
+      "title": "Buffalo Gals",
+      "url": "https://cdns-preview-d.dzcdn.net/stream/c-d49ff854a4e14180dfd55015eb644343-7.mp3",
+      "rank": 222773,
+      "ids": {
+        "from": "deezer",
+        "track": 563613,
+        "album": 73443,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "We Shall Overcome: The Seeger Sessions",
+      "title": "How Can I Keep from Singing",
+      "url": "https://cdns-preview-3.dzcdn.net/stream/c-343ba9752f568336fb8634fdce00a635-6.mp3",
+      "rank": 210046,
+      "ids": {
+        "from": "deezer",
+        "track": 563614,
+        "album": 73443,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "We Shall Overcome: The Seeger Sessions",
+      "title": "How Can a Poor Man Stand Such Times and Live",
+      "url": "https://cdns-preview-8.dzcdn.net/stream/c-8870ac5ed11095f1fd14c22fe19ed2c3-7.mp3",
+      "rank": 211452,
+      "ids": {
+        "from": "deezer",
+        "track": 563615,
+        "album": 73443,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "We Shall Overcome: The Seeger Sessions",
+      "title": "Bring 'Em Home",
+      "url": "https://cdns-preview-a.dzcdn.net/stream/c-ae2cdbb1085a5f7cb6e0035fa5c51bfa-7.mp3",
+      "rank": 214449,
+      "ids": {
+        "from": "deezer",
+        "track": 563722,
+        "album": 73443,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "We Shall Overcome: The Seeger Sessions",
+      "title": "American Land",
+      "url": "https://cdns-preview-2.dzcdn.net/stream/c-2cbf1c6f9b2d620ed6c0cd5fd23eafe4-8.mp3",
+      "rank": 265635,
+      "ids": {
+        "from": "deezer",
+        "track": 565978,
+        "album": 73443,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Devils & Dust",
+      "title": "Devils & Dust",
+      "url": "https://cdns-preview-9.dzcdn.net/stream/c-93c03247a97fdef523051ef476bac252-4.mp3",
+      "rank": 365514,
+      "ids": {
+        "from": "deezer",
+        "track": 13163503,
+        "album": 1207504,
+        "artist": 4762
+      },
+      "rating": 2
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Devils & Dust",
+      "title": "All The Way Home",
+      "url": "https://cdns-preview-c.dzcdn.net/stream/c-c46adc6236350a0219cac0a697f218a2-5.mp3",
+      "rank": 240694,
+      "ids": {
+        "from": "deezer",
+        "track": 13163504,
+        "album": 1207504,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Devils & Dust",
+      "title": "Reno",
+      "url": "https://cdns-preview-8.dzcdn.net/stream/c-8a57b19cd5c585aa877d965e00f99847-5.mp3",
+      "rank": 215561,
+      "ids": {
+        "from": "deezer",
+        "track": 13163511,
+        "album": 1207504,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Devils & Dust",
+      "title": "Long Time Comin'",
+      "url": "https://cdns-preview-6.dzcdn.net/stream/c-617be9aadd55cc52d9d46f6d76588159-5.mp3",
+      "rank": 233682,
+      "ids": {
+        "from": "deezer",
+        "track": 13163505,
+        "album": 1207504,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Devils & Dust",
+      "title": "Black Cowboys",
+      "url": "https://cdns-preview-c.dzcdn.net/stream/c-c81d0b3de44462944aa01d121f48f952-7.mp3",
+      "rank": 173075,
+      "ids": {
+        "from": "deezer",
+        "track": 13163506,
+        "album": 1207504,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Devils & Dust",
+      "title": "Maria's Bed",
+      "url": "https://cdns-preview-5.dzcdn.net/stream/c-5521bdc0c19a0aa28e115dea6430f255-5.mp3",
+      "rank": 195651,
+      "ids": {
+        "from": "deezer",
+        "track": 13163512,
+        "album": 1207504,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Devils & Dust",
+      "title": "Silver Palomino",
+      "url": "https://cdns-preview-b.dzcdn.net/stream/c-b8df8235a82459cc86a2cff463ed2941-7.mp3",
+      "rank": 169203,
+      "ids": {
+        "from": "deezer",
+        "track": 13163507,
+        "album": 1207504,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Devils & Dust",
+      "title": "Jesus Was an Only Son",
+      "url": "https://cdns-preview-3.dzcdn.net/stream/c-32ccee45f76784b460ac378d1e1d189d-3.mp3",
+      "rank": 207247,
+      "ids": {
+        "from": "deezer",
+        "track": 13163508,
+        "album": 1207504,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Devils & Dust",
+      "title": "Leah",
+      "url": "https://cdns-preview-7.dzcdn.net/stream/c-7191008f4a02313f244bbce6895d89c5-6.mp3",
+      "rank": 184490,
+      "ids": {
+        "from": "deezer",
+        "track": 13163513,
+        "album": 1207504,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Devils & Dust",
+      "title": "The Hitter",
+      "url": "https://cdns-preview-2.dzcdn.net/stream/c-2de246472d91eab1d6c139041eb7c038-4.mp3",
+      "rank": 163931,
+      "ids": {
+        "from": "deezer",
+        "track": 13163509,
+        "album": 1207504,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Devils & Dust",
+      "title": "All I'm Thinkin' About",
+      "url": "https://cdns-preview-7.dzcdn.net/stream/c-772d0fd24afcc66e1d41cccae4f9207e-5.mp3",
+      "rank": 191170,
+      "ids": {
+        "from": "deezer",
+        "track": 13163510,
+        "album": 1207504,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Devils & Dust",
+      "title": "Matamoros Banks",
+      "url": "https://cdns-preview-3.dzcdn.net/stream/c-312dc950ade5dfe0b3bc5c824bcc8682-6.mp3",
+      "rank": 190219,
+      "ids": {
+        "from": "deezer",
+        "track": 13163514,
+        "album": 1207504,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Rising",
+      "title": "Lonesome Day",
+      "url": "https://cdns-preview-5.dzcdn.net/stream/c-5f98a81c519dd402755a0c9aadd9e3cf-5.mp3",
+      "rank": 354938,
+      "ids": {
+        "from": "deezer",
+        "track": 15178800,
+        "album": 1399087,
+        "artist": 4762
+      },
+      "rating": 30
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Rising",
+      "title": "Into the Fire",
+      "url": "https://cdns-preview-c.dzcdn.net/stream/c-c3887cb9831d297a91181dca5093e159-6.mp3",
+      "rank": 291959,
+      "ids": {
+        "from": "deezer",
+        "track": 15178595,
+        "album": 1399087,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Rising",
+      "title": "Waitin' On A Sunny Day",
+      "url": "https://cdns-preview-1.dzcdn.net/stream/c-11de5da4eb2faaf7db8ebb8d868437a5-5.mp3",
+      "rank": 497220,
+      "ids": {
+        "from": "deezer",
+        "track": 15178671,
+        "album": 1399087,
+        "artist": 4762
+      },
+      "rating": 91
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Rising",
+      "title": "Nothing Man",
+      "url": "https://cdns-preview-b.dzcdn.net/stream/c-b4166e617f63a946ff0e30b415f9fab0-3.mp3",
+      "rank": 280228,
+      "ids": {
+        "from": "deezer",
+        "track": 15178646,
+        "album": 1399087,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Rising",
+      "title": "Countin' On a Miracle",
+      "url": "https://cdns-preview-4.dzcdn.net/stream/c-431cfc6311a0512ac308dd5371b3d384-6.mp3",
+      "rank": 271740,
+      "ids": {
+        "from": "deezer",
+        "track": 15178450,
+        "album": 1399087,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Rising",
+      "title": "Empty Sky",
+      "url": "https://cdns-preview-0.dzcdn.net/stream/c-092e557aab7790e26f9df5537c0e1e0e-6.mp3",
+      "rank": 302770,
+      "ids": {
+        "from": "deezer",
+        "track": 15178324,
+        "album": 1399087,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Rising",
+      "title": "Worlds Apart",
+      "url": "https://cdns-preview-5.dzcdn.net/stream/c-50539488276f19018628e914660c0545-4.mp3",
+      "rank": 298231,
+      "ids": {
+        "from": "deezer",
+        "track": 15178596,
+        "album": 1399087,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Rising",
+      "title": "Let's Be Friends (Skin to Skin)",
+      "url": "https://cdns-preview-d.dzcdn.net/stream/c-db6983177944eb7cb45692654db6876b-3.mp3",
+      "rank": 223461,
+      "ids": {
+        "from": "deezer",
+        "track": 15178777,
+        "album": 1399087,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Rising",
+      "title": "Further On (Up the Road)",
+      "url": "https://cdns-preview-a.dzcdn.net/stream/c-ada479398eefc2b56dbb50a915d99cb9-3.mp3",
+      "rank": 264071,
+      "ids": {
+        "from": "deezer",
+        "track": 15178225,
+        "album": 1399087,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Rising",
+      "title": "The Fuse",
+      "url": "https://cdns-preview-2.dzcdn.net/stream/c-2c6fef88a9713bb29d4475e11dd9f47f-4.mp3",
+      "rank": 188640,
+      "ids": {
+        "from": "deezer",
+        "track": 15178218,
+        "album": 1399087,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Rising",
+      "title": "Mary's Place",
+      "url": "https://cdns-preview-f.dzcdn.net/stream/c-ff315ec5eb8002f1ad847f9e8771f632-3.mp3",
+      "rank": 263395,
+      "ids": {
+        "from": "deezer",
+        "track": 15178198,
+        "album": 1399087,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Rising",
+      "title": "You're Missing",
+      "url": "https://cdns-preview-9.dzcdn.net/stream/c-9c0452fa0cd94ebf2ef394114f40b990-5.mp3",
+      "rank": 315322,
+      "ids": {
+        "from": "deezer",
+        "track": 15177993,
+        "album": 1399087,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Rising",
+      "title": "The Rising",
+      "url": "https://cdns-preview-8.dzcdn.net/stream/c-83b7cb731fe5627fb9134e96a2c6628d-6.mp3",
+      "rank": 457177,
+      "ids": {
+        "from": "deezer",
+        "track": 15177994,
+        "album": 1399087,
+        "artist": 4762
+      },
+      "rating": 73
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Rising",
+      "title": "Paradise",
+      "url": "https://cdns-preview-d.dzcdn.net/stream/c-d317204ee5b7afa2226c5008630783e1-5.mp3",
+      "rank": 398632,
+      "ids": {
+        "from": "deezer",
+        "track": 15177995,
+        "album": 1399087,
+        "artist": 4762
+      },
+      "rating": 19
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Rising",
+      "title": "My City of Ruins",
+      "url": "https://cdns-preview-8.dzcdn.net/stream/c-84b3f31bada6a427897522d4dff47a61-6.mp3",
+      "rank": 293923,
+      "ids": {
+        "from": "deezer",
+        "track": 15177996,
+        "album": 1399087,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Ghost Of Tom Joad",
+      "title": "The Ghost of Tom Joad",
+      "url": "https://cdns-preview-f.dzcdn.net/stream/c-f1f00484eea77b4316297d2438596324-8.mp3",
+      "rank": 543776,
+      "ids": {
+        "from": "deezer",
+        "track": 15175108,
+        "album": 1398613,
+        "artist": 4762
+      },
+      "rating": 67
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Ghost Of Tom Joad",
+      "title": "Straight Time",
+      "url": "https://cdns-preview-e.dzcdn.net/stream/c-e7d4bd9479baf80507fd604f27911b38-7.mp3",
+      "rank": 283582,
+      "ids": {
+        "from": "deezer",
+        "track": 15175110,
+        "album": 1398613,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Ghost Of Tom Joad",
+      "title": "Highway 29",
+      "url": "https://cdns-preview-0.dzcdn.net/stream/c-039e555adcb93b00c88e801eab31443f-7.mp3",
+      "rank": 287978,
+      "ids": {
+        "from": "deezer",
+        "track": 15176097,
+        "album": 1398613,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Ghost Of Tom Joad",
+      "title": "Youngstown",
+      "url": "https://cdns-preview-8.dzcdn.net/stream/c-83b08b6370d63ef6b977f9d4d4a16cb1-7.mp3",
+      "rank": 394344,
+      "ids": {
+        "from": "deezer",
+        "track": 15177282,
+        "album": 1398613,
+        "artist": 4762
+      },
+      "rating": 16
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Ghost Of Tom Joad",
+      "title": "Sinaloa Cowboys",
+      "url": "https://cdns-preview-1.dzcdn.net/stream/c-1727d5e232d19be4dc9f50ca54b99f4a-6.mp3",
+      "rank": 268235,
+      "ids": {
+        "from": "deezer",
+        "track": 15176580,
+        "album": 1398613,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Ghost Of Tom Joad",
+      "title": "The Line",
+      "url": "https://cdns-preview-c.dzcdn.net/stream/c-c41287bc7b0c78467023d6510c987702-5.mp3",
+      "rank": 265262,
+      "ids": {
+        "from": "deezer",
+        "track": 15177165,
+        "album": 1398613,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Ghost Of Tom Joad",
+      "title": "Balboa Park",
+      "url": "https://cdns-preview-d.dzcdn.net/stream/c-d57b46e96aab2cb57859d6b14b65b84d-5.mp3",
+      "rank": 227854,
+      "ids": {
+        "from": "deezer",
+        "track": 15177586,
+        "album": 1398613,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Ghost Of Tom Joad",
+      "title": "Dry Lightning",
+      "url": "https://cdns-preview-e.dzcdn.net/stream/c-effa65740fe14f5db628b1049394f560-5.mp3",
+      "rank": 229152,
+      "ids": {
+        "from": "deezer",
+        "track": 15176096,
+        "album": 1398613,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Ghost Of Tom Joad",
+      "title": "The New Timer",
+      "url": "https://cdns-preview-8.dzcdn.net/stream/c-88e047df0eaa037e18adb46a46b7714b-6.mp3",
+      "rank": 249957,
+      "ids": {
+        "from": "deezer",
+        "track": 15175111,
+        "album": 1398613,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Ghost Of Tom Joad",
+      "title": "Across the Border",
+      "url": "https://cdns-preview-e.dzcdn.net/stream/c-e8a42975137935020669016ae2a8f023-5.mp3",
+      "rank": 263592,
+      "ids": {
+        "from": "deezer",
+        "track": 15176581,
+        "album": 1398613,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Ghost Of Tom Joad",
+      "title": "Galveston Bay",
+      "url": "https://cdns-preview-a.dzcdn.net/stream/c-ada9bb400e723ad107bc5830064f82cd-7.mp3",
+      "rank": 249136,
+      "ids": {
+        "from": "deezer",
+        "track": 15175113,
+        "album": 1398613,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Ghost Of Tom Joad",
+      "title": "My Best Was Never Good Enough",
+      "url": "https://cdns-preview-8.dzcdn.net/stream/c-8ec959b50388785a83d3294a55187e04-7.mp3",
+      "rank": 238447,
+      "ids": {
+        "from": "deezer",
+        "track": 15176095,
+        "album": 1398613,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Human Touch",
+      "title": "Human Touch",
+      "url": "https://cdns-preview-4.dzcdn.net/stream/c-44613dbbd2a7e0b56f4f5cb0f72bbabb-4.mp3",
+      "rank": 442974,
+      "ids": {
+        "from": "deezer",
+        "track": 15177493,
+        "album": 1399001,
+        "artist": 4762
+      },
+      "rating": 76
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Human Touch",
+      "title": "Soul Driver",
+      "url": "https://cdns-preview-a.dzcdn.net/stream/c-ac48eb43ab262b8c29bf95d138b705ae-5.mp3",
+      "rank": 231008,
+      "ids": {
+        "from": "deezer",
+        "track": 15175972,
+        "album": 1399001,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Human Touch",
+      "title": "57 Channels (And Nothin' On)",
+      "url": "https://cdns-preview-e.dzcdn.net/stream/c-ed400e80e5f92be8cf2dfe7c98966255-4.mp3",
+      "rank": 216073,
+      "ids": {
+        "from": "deezer",
+        "track": 15177297,
+        "album": 1399001,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Human Touch",
+      "title": "Cross My Heart",
+      "url": "https://cdns-preview-2.dzcdn.net/stream/c-2ea83e403ccf20a8baddd547ccb12b5b-5.mp3",
+      "rank": 189286,
+      "ids": {
+        "from": "deezer",
+        "track": 15175969,
+        "album": 1399001,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Human Touch",
+      "title": "Gloria's Eyes",
+      "url": "https://cdns-preview-4.dzcdn.net/stream/c-4b0de53af73fee8b69e3b39546736567-7.mp3",
+      "rank": 183722,
+      "ids": {
+        "from": "deezer",
+        "track": 15177531,
+        "album": 1399001,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Human Touch",
+      "title": "With Every Wish",
+      "url": "https://cdns-preview-f.dzcdn.net/stream/c-f94b49771f277cf6352787bbf7f5118a-6.mp3",
+      "rank": 199001,
+      "ids": {
+        "from": "deezer",
+        "track": 15177059,
+        "album": 1399001,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Human Touch",
+      "title": "Roll of the Dice",
+      "url": "https://cdns-preview-0.dzcdn.net/stream/c-0373fb03eb8cc327dda6d12faf9a5735-7.mp3",
+      "rank": 217049,
+      "ids": {
+        "from": "deezer",
+        "track": 15175971,
+        "album": 1399001,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Human Touch",
+      "title": "Real World",
+      "url": "https://cdns-preview-a.dzcdn.net/stream/c-aa64133fc99e37da209a57a9c89a72f1-6.mp3",
+      "rank": 169927,
+      "ids": {
+        "from": "deezer",
+        "track": 15176954,
+        "album": 1399001,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Human Touch",
+      "title": "All Or Nothin' At All",
+      "url": "https://cdns-preview-0.dzcdn.net/stream/c-019b15c29e628aef64520abad2a970a1-6.mp3",
+      "rank": 171802,
+      "ids": {
+        "from": "deezer",
+        "track": 15176155,
+        "album": 1399001,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Human Touch",
+      "title": "Man's Job",
+      "url": "https://cdns-preview-f.dzcdn.net/stream/c-fb9ee954332d13961b05d73e31c24d19-5.mp3",
+      "rank": 201854,
+      "ids": {
+        "from": "deezer",
+        "track": 15177479,
+        "album": 1399001,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Human Touch",
+      "title": "I Wish I Were Blind",
+      "url": "https://cdns-preview-7.dzcdn.net/stream/c-72799c5d4fac285d481221fe515c82d7-6.mp3",
+      "rank": 204894,
+      "ids": {
+        "from": "deezer",
+        "track": 15177255,
+        "album": 1399001,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Human Touch",
+      "title": "The Long Goodbye",
+      "url": "https://cdns-preview-c.dzcdn.net/stream/c-c4b8716a8635893a25edc38bf174ec6e-7.mp3",
+      "rank": 156734,
+      "ids": {
+        "from": "deezer",
+        "track": 15177256,
+        "album": 1399001,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Human Touch",
+      "title": "Real Man",
+      "url": "https://cdns-preview-6.dzcdn.net/stream/c-62e93834cd5a43b6298f0bcd8b09012f-9.mp3",
+      "rank": 131074,
+      "ids": {
+        "from": "deezer",
+        "track": 15177075,
+        "album": 1399001,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Human Touch",
+      "title": "Pony Boy",
+      "url": "https://cdns-preview-1.dzcdn.net/stream/c-13dfe304bb50a776c7dc697a89f47b2a-6.mp3",
+      "rank": 152695,
+      "ids": {
+        "from": "deezer",
+        "track": 15175970,
+        "album": 1399001,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Lucky Town",
+      "title": "Better Days",
+      "url": "https://cdns-preview-1.dzcdn.net/stream/c-16e26ce9a39fa5c91d1ea43dfd2c2c71-16.mp3",
+      "rank": 328034,
+      "ids": {
+        "from": "deezer",
+        "track": 15177690,
+        "album": 1399002,
+        "artist": 4762
+      },
+      "rating": 39
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Lucky Town",
+      "title": "Lucky Town",
+      "url": "https://cdns-preview-9.dzcdn.net/stream/c-9724b85f083f90602855200ab974adcf-5.mp3",
+      "rank": 284604,
+      "ids": {
+        "from": "deezer",
+        "track": 15176957,
+        "album": 1399002,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Lucky Town",
+      "title": "Local Hero",
+      "url": "https://cdns-preview-f.dzcdn.net/stream/c-f8a56f47400592d421d32a92c8cd4678-6.mp3",
+      "rank": 163321,
+      "ids": {
+        "from": "deezer",
+        "track": 15175974,
+        "album": 1399002,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Lucky Town",
+      "title": "If I Should Fall Behind",
+      "url": "https://cdns-preview-8.dzcdn.net/stream/c-8faee5a491fd84c971b48dd88d354561-3.mp3",
+      "rank": 286200,
+      "ids": {
+        "from": "deezer",
+        "track": 15176154,
+        "album": 1399002,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Lucky Town",
+      "title": "Leap Of Faith",
+      "url": "https://cdns-preview-9.dzcdn.net/stream/c-9bc04250c278c3bb2b532a34bcbea042-6.mp3",
+      "rank": 154185,
+      "ids": {
+        "from": "deezer",
+        "track": 15175973,
+        "album": 1399002,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Lucky Town",
+      "title": "The Big Muddy",
+      "url": "https://cdns-preview-2.dzcdn.net/stream/c-2703a8fb8bdf2cb9394d547a6d3dba25-6.mp3",
+      "rank": 172522,
+      "ids": {
+        "from": "deezer",
+        "track": 15177074,
+        "album": 1399002,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Lucky Town",
+      "title": "Living Proof",
+      "url": "https://cdns-preview-4.dzcdn.net/stream/c-4c357a7dde630dd24acf274833659f04-3.mp3",
+      "rank": 205362,
+      "ids": {
+        "from": "deezer",
+        "track": 15176076,
+        "album": 1399002,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Lucky Town",
+      "title": "Book of Dreams",
+      "url": "https://cdns-preview-5.dzcdn.net/stream/c-5aa1fbb46d7e7435e668cf193ca44355-3.mp3",
+      "rank": 163298,
+      "ids": {
+        "from": "deezer",
+        "track": 15177583,
+        "album": 1399002,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Lucky Town",
+      "title": "Souls of the Departed",
+      "url": "https://cdns-preview-9.dzcdn.net/stream/c-912ffa461cfc87eda1965845c1301d78-5.mp3",
+      "rank": 138012,
+      "ids": {
+        "from": "deezer",
+        "track": 15176153,
+        "album": 1399002,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Lucky Town",
+      "title": "My Beautiful Reward",
+      "url": "https://cdns-preview-b.dzcdn.net/stream/c-b97901d6e7405e33f6b356998189ff5c-6.mp3",
+      "rank": 214454,
+      "ids": {
+        "from": "deezer",
+        "track": 15175975,
+        "album": 1399002,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Tunnel Of Love",
+      "title": "Ain't Got You",
+      "url": "https://cdns-preview-e.dzcdn.net/stream/c-efbefb25f81c8b37d13221fa87a66cf8-7.mp3",
+      "rank": 272422,
+      "ids": {
+        "from": "deezer",
+        "track": 15174866,
+        "album": 1398524,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Tunnel Of Love",
+      "title": "Tougher Than the Rest",
+      "url": "https://cdns-preview-a.dzcdn.net/stream/c-a51bf0e0f988c3c8c03c8e8e82eee34e-8.mp3",
+      "rank": 563079,
+      "ids": {
+        "from": "deezer",
+        "track": 15177287,
+        "album": 1398524,
+        "artist": 4762
+      },
+      "rating": 100
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Tunnel Of Love",
+      "title": "All That Heaven Will Allow",
+      "url": "https://cdns-preview-6.dzcdn.net/stream/c-663b6acf35a78b1d5687ed3f19973279-7.mp3",
+      "rank": 298666,
+      "ids": {
+        "from": "deezer",
+        "track": 15174863,
+        "album": 1398524,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Tunnel Of Love",
+      "title": "Spare Parts",
+      "url": "https://cdns-preview-5.dzcdn.net/stream/c-5773303a9aa1403e98437e59cd8aa150-4.mp3",
+      "rank": 292193,
+      "ids": {
+        "from": "deezer",
+        "track": 15176398,
+        "album": 1398524,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Tunnel Of Love",
+      "title": "Cautious Man",
+      "url": "https://cdns-preview-e.dzcdn.net/stream/c-ea815e77b4045c51d73698037bc61411-4.mp3",
+      "rank": 246985,
+      "ids": {
+        "from": "deezer",
+        "track": 15176118,
+        "album": 1398524,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Tunnel Of Love",
+      "title": "Walk Like a Man",
+      "url": "https://cdns-preview-e.dzcdn.net/stream/c-e3041e977e0ff4c451cbed8291d94d6f-5.mp3",
+      "rank": 287811,
+      "ids": {
+        "from": "deezer",
+        "track": 15174860,
+        "album": 1398524,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Tunnel Of Love",
+      "title": "Tunnel of Love",
+      "url": "https://cdns-preview-d.dzcdn.net/stream/c-d89fd447c435f17d0aed6365a2a57817-8.mp3",
+      "rank": 413329,
+      "ids": {
+        "from": "deezer",
+        "track": 15177143,
+        "album": 1398524,
+        "artist": 4762
+      },
+      "rating": 74
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Tunnel Of Love",
+      "title": "Two Faces",
+      "url": "https://cdns-preview-e.dzcdn.net/stream/c-e615e561d2ee16a0d482c2036a5798e6-7.mp3",
+      "rank": 274451,
+      "ids": {
+        "from": "deezer",
+        "track": 15176397,
+        "album": 1398524,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Tunnel Of Love",
+      "title": "Brilliant Disguise",
+      "url": "https://cdns-preview-4.dzcdn.net/stream/c-4792e18b197fa3f40ef652f333ed575c-8.mp3",
+      "rank": 427401,
+      "ids": {
+        "from": "deezer",
+        "track": 15177279,
+        "album": 1398524,
+        "artist": 4762
+      },
+      "rating": 84
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Tunnel Of Love",
+      "title": "One Step Up",
+      "url": "https://cdns-preview-5.dzcdn.net/stream/c-5e80a2aa48ae581ae50614e9a823656c-7.mp3",
+      "rank": 362971,
+      "ids": {
+        "from": "deezer",
+        "track": 15174857,
+        "album": 1398524,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Tunnel Of Love",
+      "title": "When You're Alone",
+      "url": "https://cdns-preview-b.dzcdn.net/stream/c-bc0eb1690446811ea506a80d3c06b1af-8.mp3",
+      "rank": 227262,
+      "ids": {
+        "from": "deezer",
+        "track": 15174855,
+        "album": 1398524,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Tunnel Of Love",
+      "title": "Valentine's Day",
+      "url": "https://cdns-preview-4.dzcdn.net/stream/c-4e68198b51a93b0b22c97415339e389f-7.mp3",
+      "rank": 227577,
+      "ids": {
+        "from": "deezer",
+        "track": 15176006,
+        "album": 1398524,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Born In The U.S.A.",
+      "title": "Born in the U.S.A.",
+      "url": "https://cdns-preview-0.dzcdn.net/stream/c-0a314576f8bdddadd140e7e390d0bcbd-5.mp3",
+      "rank": 810039,
+      "ids": {
+        "from": "deezer",
+        "track": 15586213,
+        "album": 1440805,
+        "artist": 4762
+      },
+      "rating": 97
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Born In The U.S.A.",
+      "title": "Cover Me",
+      "url": "https://cdns-preview-2.dzcdn.net/stream/c-2589430df5dc872930f223c75b15f9f2-9.mp3",
+      "rank": 504049,
+      "ids": {
+        "from": "deezer",
+        "track": 15586214,
+        "album": 1440805,
+        "artist": 4762
+      },
+      "rating": 82
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Born In The U.S.A.",
+      "title": "Darlington County",
+      "url": "https://cdns-preview-f.dzcdn.net/stream/c-fb59a614a71bb6c2c54e3911c3bb862d-8.mp3",
+      "rank": 427697,
+      "ids": {
+        "from": "deezer",
+        "track": 15586245,
+        "album": 1440805,
+        "artist": 4762
+      },
+      "rating": 52
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Born In The U.S.A.",
+      "title": "Working on the Highway",
+      "url": "https://cdns-preview-e.dzcdn.net/stream/c-e4276e00fd4d7d17be05e8b57204a931-8.mp3",
+      "rank": 471913,
+      "ids": {
+        "from": "deezer",
+        "track": 15586258,
+        "album": 1440805,
+        "artist": 4762
+      },
+      "rating": 71
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Born In The U.S.A.",
+      "title": "Downbound Train",
+      "url": "https://cdns-preview-f.dzcdn.net/stream/c-f3adfc3ce636c485f1ccb062923b7746-10.mp3",
+      "rank": 537785,
+      "ids": {
+        "from": "deezer",
+        "track": 15586252,
+        "album": 1440805,
+        "artist": 4762
+      },
+      "rating": 90
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Born In The U.S.A.",
+      "title": "I'm On Fire",
+      "url": "https://cdns-preview-8.dzcdn.net/stream/c-8c42a1926faebc5a03246bda9690d369-6.mp3",
+      "rank": 753182,
+      "ids": {
+        "from": "deezer",
+        "track": 15586369,
+        "album": 1440805,
+        "artist": 4762
+      },
+      "rating": 96
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Born In The U.S.A.",
+      "title": "No Surrender",
+      "url": "https://cdns-preview-1.dzcdn.net/stream/c-1e419b5b1fc9f54b43946ab30b51aeee-6.mp3",
+      "rank": 478079,
+      "ids": {
+        "from": "deezer",
+        "track": 15586216,
+        "album": 1440805,
+        "artist": 4762
+      },
+      "rating": 78
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Born In The U.S.A.",
+      "title": "Bobby Jean",
+      "url": "https://cdns-preview-0.dzcdn.net/stream/c-04f5b4a31e7b1e3f364f1772209e5637-5.mp3",
+      "rank": 463598,
+      "ids": {
+        "from": "deezer",
+        "track": 15586259,
+        "album": 1440805,
+        "artist": 4762
+      },
+      "rating": 77
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Born In The U.S.A.",
+      "title": "I'm Goin' Down",
+      "url": "https://cdns-preview-2.dzcdn.net/stream/c-29e6cb573cf384e325e9a396a9c9bb44-9.mp3",
+      "rank": 516528,
+      "ids": {
+        "from": "deezer",
+        "track": 15586370,
+        "album": 1440805,
+        "artist": 4762
+      },
+      "rating": 88
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Born In The U.S.A.",
+      "title": "Glory Days",
+      "url": "https://cdns-preview-9.dzcdn.net/stream/c-9ddb5203765be707ab60c4ad77be75bc-6.mp3",
+      "rank": 583255,
+      "ids": {
+        "from": "deezer",
+        "track": 15586215,
+        "album": 1440805,
+        "artist": 4762
+      },
+      "rating": 89
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Born In The U.S.A.",
+      "title": "Dancing In the Dark",
+      "url": "https://cdns-preview-b.dzcdn.net/stream/c-b87c84eba8d82a62d9bf28c5e8422e68-7.mp3",
+      "rank": 783620,
+      "ids": {
+        "from": "deezer",
+        "track": 15586246,
+        "album": 1440805,
+        "artist": 4762
+      },
+      "rating": 98
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Born In The U.S.A.",
+      "title": "My Hometown",
+      "url": "https://cdns-preview-0.dzcdn.net/stream/c-04bf40d307e4226ca62c6b831a2b8e00-10.mp3",
+      "rank": 523392,
+      "ids": {
+        "from": "deezer",
+        "track": 15586248,
+        "album": 1440805,
+        "artist": 4762
+      },
+      "rating": 87
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Nebraska",
+      "title": "Nebraska",
+      "url": "https://cdns-preview-9.dzcdn.net/stream/c-97d69c3e6286a9846e337402fdd931c4-7.mp3",
+      "rank": 471134,
+      "ids": {
+        "from": "deezer",
+        "track": 15177278,
+        "album": 1398519,
+        "artist": 4762
+      },
+      "rating": 48
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Nebraska",
+      "title": "Atlantic City",
+      "url": "https://cdns-preview-1.dzcdn.net/stream/c-1dd91db2590ddd6c60e28e8486cbd5b8-8.mp3",
+      "rank": 465083,
+      "ids": {
+        "from": "deezer",
+        "track": 15177639,
+        "album": 1398519,
+        "artist": 4762
+      },
+      "rating": 83
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Nebraska",
+      "title": "Mansion On the Hill",
+      "url": "https://cdns-preview-f.dzcdn.net/stream/c-fc233e3d95c507a09f07c38479eda44b-5.mp3",
+      "rank": 388400,
+      "ids": {
+        "from": "deezer",
+        "track": 15177139,
+        "album": 1398519,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Nebraska",
+      "title": "Johnny 99",
+      "url": "https://cdns-preview-b.dzcdn.net/stream/c-b738684c460a943e823bf55a26fab287-8.mp3",
+      "rank": 318719,
+      "ids": {
+        "from": "deezer",
+        "track": 15174827,
+        "album": 1398519,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Nebraska",
+      "title": "Highway Patrolman",
+      "url": "https://cdns-preview-1.dzcdn.net/stream/c-1c5499d2e11dc62a12ba0e3471e13daf-5.mp3",
+      "rank": 330795,
+      "ids": {
+        "from": "deezer",
+        "track": 15177580,
+        "album": 1398519,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Nebraska",
+      "title": "State Trooper",
+      "url": "https://cdns-preview-9.dzcdn.net/stream/c-902965cb1d05cf551a5c32bc255b7ae6-6.mp3",
+      "rank": 369821,
+      "ids": {
+        "from": "deezer",
+        "track": 15178049,
+        "album": 1398519,
+        "artist": 4762
+      },
+      "rating": 23
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Nebraska",
+      "title": "Used Cars",
+      "url": "https://cdns-preview-f.dzcdn.net/stream/c-f8698bf0ac3cffd33d0a242e05006cad-5.mp3",
+      "rank": 308980,
+      "ids": {
+        "from": "deezer",
+        "track": 15177579,
+        "album": 1398519,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Nebraska",
+      "title": "Open All Night",
+      "url": "https://cdns-preview-0.dzcdn.net/stream/c-00ddbc5a36b0af277a8484fd0ec4620a-6.mp3",
+      "rank": 365817,
+      "ids": {
+        "from": "deezer",
+        "track": 15174826,
+        "album": 1398519,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Nebraska",
+      "title": "My Father's House",
+      "url": "https://cdns-preview-3.dzcdn.net/stream/c-3e9d41d9564ca5fd1bcedbd15aff33bd-5.mp3",
+      "rank": 357121,
+      "ids": {
+        "from": "deezer",
+        "track": 15176002,
+        "album": 1398519,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Nebraska",
+      "title": "Reason to Believe",
+      "url": "https://cdns-preview-7.dzcdn.net/stream/c-734164f9d408ff0c9b7c14410f0c0fe0-5.mp3",
+      "rank": 292009,
+      "ids": {
+        "from": "deezer",
+        "track": 15176082,
+        "album": 1398519,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The River",
+      "title": "The Ties That Bind",
+      "url": "https://cdns-preview-1.dzcdn.net/stream/c-1adfd332e87f5683951d8a5773e8a316-9.mp3",
+      "rank": 313900,
+      "ids": {
+        "from": "deezer",
+        "track": 15177678,
+        "album": 1398520,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The River",
+      "title": "Sherry Darling",
+      "url": "https://cdns-preview-1.dzcdn.net/stream/c-13841a724156d723a50ebae6526056a4-9.mp3",
+      "rank": 326610,
+      "ids": {
+        "from": "deezer",
+        "track": 15176003,
+        "album": 1398520,
+        "artist": 4762
+      },
+      "rating": 50
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The River",
+      "title": "Jackson Cage",
+      "url": "https://cdns-preview-4.dzcdn.net/stream/c-49b7b5622eac44a01d6504256388a2b1-9.mp3",
+      "rank": 294496,
+      "ids": {
+        "from": "deezer",
+        "track": 15174834,
+        "album": 1398520,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The River",
+      "title": "Two Hearts",
+      "url": "https://cdns-preview-b.dzcdn.net/stream/c-b6d12766bbb2a6c892e197202f7a05ed-5.mp3",
+      "rank": 295442,
+      "ids": {
+        "from": "deezer",
+        "track": 15174833,
+        "album": 1398520,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The River",
+      "title": "Independence Day",
+      "url": "https://cdns-preview-a.dzcdn.net/stream/c-aa52d7a0e1efc6098ee6cdb3b3f55496-7.mp3",
+      "rank": 356297,
+      "ids": {
+        "from": "deezer",
+        "track": 15177066,
+        "album": 1398520,
+        "artist": 4762
+      },
+      "rating": 28
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The River",
+      "title": "Hungry Heart",
+      "url": "https://cdns-preview-f.dzcdn.net/stream/c-f23262581f49e5dd98f80c0ad5a4d8d2-8.mp3",
+      "rank": 641433,
+      "ids": {
+        "from": "deezer",
+        "track": 15177141,
+        "album": 1398520,
+        "artist": 4762
+      },
+      "rating": 95
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The River",
+      "title": "Out In the Street",
+      "url": "https://cdns-preview-2.dzcdn.net/stream/c-2e19090045dadfe0542ee1e195c799c9-9.mp3",
+      "rank": 321955,
+      "ids": {
+        "from": "deezer",
+        "track": 15176390,
+        "album": 1398520,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The River",
+      "title": "Crush on You",
+      "url": "https://cdns-preview-8.dzcdn.net/stream/c-848057046aa20c8d88e741ee6d1db297-10.mp3",
+      "rank": 250964,
+      "ids": {
+        "from": "deezer",
+        "track": 15177288,
+        "album": 1398520,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The River",
+      "title": "You Can Look (But You Better Not Touch)",
+      "url": "https://cdns-preview-e.dzcdn.net/stream/c-e766720b5054744095a69dc897e4a867-5.mp3",
+      "rank": 256626,
+      "ids": {
+        "from": "deezer",
+        "track": 15177005,
+        "album": 1398520,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The River",
+      "title": "I Wanna Marry You",
+      "url": "https://cdns-preview-6.dzcdn.net/stream/c-6c2d591ce877ec8bc7eb5cedb0eef8d1-10.mp3",
+      "rank": 346648,
+      "ids": {
+        "from": "deezer",
+        "track": 15174832,
+        "album": 1398520,
+        "artist": 4762
+      },
+      "rating": 80
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The River",
+      "title": "The River",
+      "url": "https://cdns-preview-3.dzcdn.net/stream/c-3b4f7cbf93aef31958f0be3fc98e028f-5.mp3",
+      "rank": 742802,
+      "ids": {
+        "from": "deezer",
+        "track": 15177998,
+        "album": 1398520,
+        "artist": 4762
+      },
+      "rating": 101
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The River",
+      "title": "Point Blank",
+      "url": "https://cdns-preview-0.dzcdn.net/stream/c-0c896c6dae0433acf22d371da80053ff-12.mp3",
+      "rank": 444439,
+      "ids": {
+        "from": "deezer",
+        "track": 15174831,
+        "album": 1398520,
+        "artist": 4762
+      },
+      "rating": 20
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The River",
+      "title": "Cadillac Ranch",
+      "url": "https://cdns-preview-6.dzcdn.net/stream/c-6d9cb600bcbfa4e8a5ec63ee2e6eafff-12.mp3",
+      "rank": 325306,
+      "ids": {
+        "from": "deezer",
+        "track": 15176120,
+        "album": 1398520,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The River",
+      "title": "I'm a Rocker",
+      "url": "https://cdns-preview-1.dzcdn.net/stream/c-1f4b384066e1f277e475ba2ac5419e45-11.mp3",
+      "rank": 240368,
+      "ids": {
+        "from": "deezer",
+        "track": 15176389,
+        "album": 1398520,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The River",
+      "title": "Fade Away",
+      "url": "https://cdns-preview-e.dzcdn.net/stream/c-e042652cdf53cad9c3c46ff325976ffd-6.mp3",
+      "rank": 246172,
+      "ids": {
+        "from": "deezer",
+        "track": 15174830,
+        "album": 1398520,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The River",
+      "title": "Stolen Car",
+      "url": "https://cdns-preview-c.dzcdn.net/stream/c-c0fe5f9b6480bba2d888ea6f8c356a25-5.mp3",
+      "rank": 288086,
+      "ids": {
+        "from": "deezer",
+        "track": 15177140,
+        "album": 1398520,
+        "artist": 4762
+      },
+      "rating": 25
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The River",
+      "title": "Ramrod",
+      "url": "https://cdns-preview-f.dzcdn.net/stream/c-fbb427b05610fc880a53965b829e1f45-5.mp3",
+      "rank": 234656,
+      "ids": {
+        "from": "deezer",
+        "track": 15174829,
+        "album": 1398520,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The River",
+      "title": "The Price You Pay",
+      "url": "https://cdns-preview-b.dzcdn.net/stream/c-b979e735b82135cb58c5fdb2f1a20662-5.mp3",
+      "rank": 235296,
+      "ids": {
+        "from": "deezer",
+        "track": 15176121,
+        "album": 1398520,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The River",
+      "title": "Drive All Night",
+      "url": "https://cdns-preview-6.dzcdn.net/stream/c-6498253eae87de7b9335eb8b57e668ed-5.mp3",
+      "rank": 362449,
+      "ids": {
+        "from": "deezer",
+        "track": 15174828,
+        "album": 1398520,
+        "artist": 4762
+      },
+      "rating": 8
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The River",
+      "title": "Wreck on the Highway",
+      "url": "https://cdns-preview-4.dzcdn.net/stream/c-413d0d8d30e542cc1fc0f01f447fa419-11.mp3",
+      "rank": 241645,
+      "ids": {
+        "from": "deezer",
+        "track": 15176388,
+        "album": 1398520,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Darkness On the Edge of Town",
+      "title": "Badlands",
+      "url": "https://cdns-preview-9.dzcdn.net/stream/c-99696c253e65111ecfdb77168e24b046-5.mp3",
+      "rank": 463377,
+      "ids": {
+        "from": "deezer",
+        "track": 7526187,
+        "album": 694232,
+        "artist": 4762
+      },
+      "rating": 59
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Darkness On the Edge of Town",
+      "title": "Adam Raised a Cain",
+      "url": "https://cdns-preview-a.dzcdn.net/stream/c-a036507ed9d563ddfdc12fbaa5cb37cc-6.mp3",
+      "rank": 402709,
+      "ids": {
+        "from": "deezer",
+        "track": 7526188,
+        "album": 694232,
+        "artist": 4762
+      },
+      "rating": 31
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Darkness On the Edge of Town",
+      "title": "Something in the Night",
+      "url": "https://cdns-preview-0.dzcdn.net/stream/c-0c37e5c4a92ecbd4aa949c97b74e0d5a-10.mp3",
+      "rank": 288221,
+      "ids": {
+        "from": "deezer",
+        "track": 7526189,
+        "album": 694232,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Darkness On the Edge of Town",
+      "title": "Candy's Room",
+      "url": "https://cdns-preview-c.dzcdn.net/stream/c-c3f6a4a8c5f0ee95ccf4e446b0f17ee9-10.mp3",
+      "rank": 294643,
+      "ids": {
+        "from": "deezer",
+        "track": 7526190,
+        "album": 694232,
+        "artist": 4762
+      },
+      "rating": 58
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Darkness On the Edge of Town",
+      "title": "Racing in the Street",
+      "url": "https://cdns-preview-3.dzcdn.net/stream/c-3de27ad78c9a7997fc5637aca4f7252a-10.mp3",
+      "rank": 423233,
+      "ids": {
+        "from": "deezer",
+        "track": 7526191,
+        "album": 694232,
+        "artist": 4762
+      },
+      "rating": 41
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Darkness On the Edge of Town",
+      "title": "The Promised Land",
+      "url": "https://cdns-preview-5.dzcdn.net/stream/c-5e59cb9145bbc8b126b595c525b5ae82-10.mp3",
+      "rank": 445315,
+      "ids": {
+        "from": "deezer",
+        "track": 7526192,
+        "album": 694232,
+        "artist": 4762
+      },
+      "rating": 51
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Darkness On the Edge of Town",
+      "title": "Factory",
+      "url": "https://cdns-preview-b.dzcdn.net/stream/c-bccb388f51b9bb31ca49a5c54f118e05-12.mp3",
+      "rank": 231913,
+      "ids": {
+        "from": "deezer",
+        "track": 7526193,
+        "album": 694232,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Darkness On the Edge of Town",
+      "title": "Streets of Fire",
+      "url": "https://cdns-preview-5.dzcdn.net/stream/c-5ab4811cdbeb8f46c392896be9a371a7-12.mp3",
+      "rank": 210895,
+      "ids": {
+        "from": "deezer",
+        "track": 7526194,
+        "album": 694232,
+        "artist": 4762
+      },
+      "rating": 45
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Darkness On the Edge of Town",
+      "title": "Prove It All Night",
+      "url": "https://cdns-preview-2.dzcdn.net/stream/c-214cbc05c3dea7f523d3a7c7b1dd3c12-10.mp3",
+      "rank": 340509,
+      "ids": {
+        "from": "deezer",
+        "track": 7526195,
+        "album": 694232,
+        "artist": 4762
+      },
+      "rating": 24
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Darkness On the Edge of Town",
+      "title": "Darkness on the Edge of Town",
+      "url": "https://cdns-preview-1.dzcdn.net/stream/c-150897bf78d6e9d4808bde106e6b4f02-10.mp3",
+      "rank": 381312,
+      "ids": {
+        "from": "deezer",
+        "track": 7526196,
+        "album": 694232,
+        "artist": 4762
+      },
+      "rating": 44
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Born To Run",
+      "title": "Thunder Road",
+      "url": "https://cdns-preview-9.dzcdn.net/stream/c-974751e2e4f2b7151b4b91c4cdd1f95e-5.mp3",
+      "rank": 407460,
+      "ids": {
+        "from": "deezer",
+        "track": 71136897,
+        "album": 6983483,
+        "artist": 4762
+      },
+      "rating": 47
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Born To Run",
+      "title": "Tenth Avenue Freeze-Out",
+      "url": "https://cdns-preview-2.dzcdn.net/stream/c-21075ff3f6d7c681d1494b3a0077c589-5.mp3",
+      "rank": 318825,
+      "ids": {
+        "from": "deezer",
+        "track": 71136898,
+        "album": 6983483,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Born To Run",
+      "title": "Night",
+      "url": "https://cdns-preview-b.dzcdn.net/stream/c-b0f72300f344b573e9aebaa7fb708787-6.mp3",
+      "rank": 288550,
+      "ids": {
+        "from": "deezer",
+        "track": 71136899,
+        "album": 6983483,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Born To Run",
+      "title": "Backstreets",
+      "url": "https://cdns-preview-0.dzcdn.net/stream/c-0d39bf5364d85f3a0330ed514b0d9b63-7.mp3",
+      "rank": 304351,
+      "ids": {
+        "from": "deezer",
+        "track": 71136900,
+        "album": 6983483,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Born To Run",
+      "title": "Born to Run",
+      "url": "https://cdns-preview-6.dzcdn.net/stream/c-6f2097f29a10a2046081ee5d2915c103-7.mp3",
+      "rank": 488625,
+      "ids": {
+        "from": "deezer",
+        "track": 71136901,
+        "album": 6983483,
+        "artist": 4762
+      },
+      "rating": 94
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Born To Run",
+      "title": "She's the One",
+      "url": "https://cdns-preview-3.dzcdn.net/stream/c-3bce7854d54ec4b8f5989af75a9dacd8-5.mp3",
+      "rank": 284214,
+      "ids": {
+        "from": "deezer",
+        "track": 71136902,
+        "album": 6983483,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Born To Run",
+      "title": "Meeting Across the River",
+      "url": "https://cdns-preview-c.dzcdn.net/stream/c-c8fa0e1ca489fde989c2f09d19b542c4-8.mp3",
+      "rank": 243411,
+      "ids": {
+        "from": "deezer",
+        "track": 71136903,
+        "album": 6983483,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Born To Run",
+      "title": "Jungleland",
+      "url": "https://cdns-preview-b.dzcdn.net/stream/c-b709509123250b93230c57834bd57de9-6.mp3",
+      "rank": 362060,
+      "ids": {
+        "from": "deezer",
+        "track": 71136904,
+        "album": 6983483,
+        "artist": 4762
+      },
+      "rating": 14
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Wild, the Innocent & The E Street Shuffle",
+      "title": "The E Street Shuffle",
+      "url": "https://cdns-preview-c.dzcdn.net/stream/c-c6b3b64fe258ccab934be7ebd6522ff2-3.mp3",
+      "rank": 242642,
+      "ids": {
+        "from": "deezer",
+        "track": 15178180,
+        "album": 1399080,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Wild, the Innocent & The E Street Shuffle",
+      "title": "4th of July, Asbury Park (Sandy)",
+      "url": "https://cdns-preview-9.dzcdn.net/stream/c-9e4189aeafd3ed9b3e2539b2886c328a-9.mp3",
+      "rank": 336674,
+      "ids": {
+        "from": "deezer",
+        "track": 15178170,
+        "album": 1399080,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Wild, the Innocent & The E Street Shuffle",
+      "title": "Kitty's Back",
+      "url": "https://cdns-preview-8.dzcdn.net/stream/c-886697ed1e9c8eb5a6ef3e82af8548bf-4.mp3",
+      "rank": 187862,
+      "ids": {
+        "from": "deezer",
+        "track": 15178127,
+        "album": 1399080,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Wild, the Innocent & The E Street Shuffle",
+      "title": "Wild Billy's Circus Story",
+      "url": "https://cdns-preview-7.dzcdn.net/stream/c-76e7553c859b1e6ba7e16e9a628497f7-10.mp3",
+      "rank": 213849,
+      "ids": {
+        "from": "deezer",
+        "track": 15178070,
+        "album": 1399080,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Wild, the Innocent & The E Street Shuffle",
+      "title": "Incident on 57th Street",
+      "url": "https://cdns-preview-8.dzcdn.net/stream/c-8cc83d3d62e9156ba823b92d063253bc-4.mp3",
+      "rank": 253225,
+      "ids": {
+        "from": "deezer",
+        "track": 15178020,
+        "album": 1399080,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Wild, the Innocent & The E Street Shuffle",
+      "title": "Rosalita (Come Out Tonight)",
+      "url": "https://cdns-preview-5.dzcdn.net/stream/c-598e84ea362196c95f0d20f2e949134c-9.mp3",
+      "rank": 223204,
+      "ids": {
+        "from": "deezer",
+        "track": 15178003,
+        "album": 1399080,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "The Wild, the Innocent & The E Street Shuffle",
+      "title": "New York City Serenade",
+      "url": "https://cdns-preview-4.dzcdn.net/stream/c-4102189acd7b2bcb3577834c95404245-9.mp3",
+      "rank": 302985,
+      "ids": {
+        "from": "deezer",
+        "track": 15178025,
+        "album": 1399080,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Greetings from Asbury Park, N.J.",
+      "title": "Blinded By The Light",
+      "url": "https://cdns-preview-5.dzcdn.net/stream/c-5742fc8acb23122b6ac6f865a8bb7485-5.mp3",
+      "rank": 361595,
+      "ids": {
+        "from": "deezer",
+        "track": 70834358,
+        "album": 6954922,
+        "artist": 4762
+      },
+      "rating": 15
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Greetings from Asbury Park, N.J.",
+      "title": "Growin' Up",
+      "url": "https://cdns-preview-b.dzcdn.net/stream/c-b466952a55bc51552931ad5106da6ddd-3.mp3",
+      "rank": 237320,
+      "ids": {
+        "from": "deezer",
+        "track": 70834359,
+        "album": 6954922,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Greetings from Asbury Park, N.J.",
+      "title": "Mary Queen of Arkansas",
+      "url": "https://cdns-preview-3.dzcdn.net/stream/c-3108743aee2fd17dcaf5cac8f6e5d8cd-5.mp3",
+      "rank": 236473,
+      "ids": {
+        "from": "deezer",
+        "track": 70834360,
+        "album": 6954922,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Greetings from Asbury Park, N.J.",
+      "title": "Does This Bus Stop at 82nd Street?",
+      "url": "https://cdns-preview-f.dzcdn.net/stream/c-f44efd0f5e0e52a5cba0b8dbf7c349b0-4.mp3",
+      "rank": 188760,
+      "ids": {
+        "from": "deezer",
+        "track": 70834361,
+        "album": 6954922,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Greetings from Asbury Park, N.J.",
+      "title": "Lost in the Flood",
+      "url": "https://cdns-preview-e.dzcdn.net/stream/c-ec9e8a2c86d82845430c59d74c0f0fde-4.mp3",
+      "rank": 226706,
+      "ids": {
+        "from": "deezer",
+        "track": 70834362,
+        "album": 6954922,
+        "artist": 4762
+      },
+      "rating": 55
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Greetings from Asbury Park, N.J.",
+      "title": "The Angel",
+      "url": "https://cdns-preview-b.dzcdn.net/stream/c-bd1c1b1b1e652c698d7f4fe293cbd0c6-5.mp3",
+      "rank": 165642,
+      "ids": {
+        "from": "deezer",
+        "track": 70834363,
+        "album": 6954922,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Greetings from Asbury Park, N.J.",
+      "title": "For You",
+      "url": "https://cdns-preview-5.dzcdn.net/stream/c-5d73c592400347eb6eac73d37437580a-4.mp3",
+      "rank": 256237,
+      "ids": {
+        "from": "deezer",
+        "track": 70834364,
+        "album": 6954922,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Greetings from Asbury Park, N.J.",
+      "title": "Spirit in the Night",
+      "url": "https://cdns-preview-8.dzcdn.net/stream/c-8515d5c88d3cbde34991251a53e0cc63-5.mp3",
+      "rank": 348908,
+      "ids": {
+        "from": "deezer",
+        "track": 70834365,
+        "album": 6954922,
+        "artist": 4762
+      },
+      "rating": 0
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "album": "Greetings from Asbury Park, N.J.",
+      "title": "It's Hard to Be a Saint in the City",
+      "url": "https://cdns-preview-2.dzcdn.net/stream/c-28931135f7c37b4cfce57317ae429e9e-6.mp3",
+      "rank": 674062,
+      "ids": {
+        "from": "deezer",
+        "track": 70834366,
+        "album": 6954922,
+        "artist": 4762
+      },
+      "rating": 57
+    }
+  ]
+}

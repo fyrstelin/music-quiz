@@ -1,0 +1,36 @@
+{
+  "name": "music-quiz",
+  "private": true,
+  "version": "0.2.2",
+  "scripts": {
+    "start:dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "deploy": "node release.mjs"
+  },
+  "dependencies": {
+    "@ionic/core": "^6.1.3",
+    "@ionic/react": "^6.1.3",
+    "@ionic/react-router": "^6.1.3",
+    "ionicons": "^6.0.1",
+    "nanoid": "^3.3.3",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router": "^5.0.1",
+    "react-router-dom": "^5.0.1",
+    "seedrandom": "^3.0.5",
+    "string-similarity": "^4.0.4"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@types/react-router": "^5.0.1",
+    "@types/react-router-dom": "^5.0.1",
+    "@types/seedrandom": "^3.0.2",
+    "@types/string-similarity": "^4.0.0",
+    "@vitejs/plugin-react": "^1.3.0",
+    "node-fetch": "^3.2.4",
+    "typescript": "^4.6.3",
+    "vite": "^2.9.5"
+  }
+}

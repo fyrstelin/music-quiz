@@ -1,0 +1,691 @@
+{
+  "name": "Dizzy Mizz Lizzy",
+  "tracks": [
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Alter Echo",
+      "title": "The Ricochet",
+      "url": "https://cdns-preview-3.dzcdn.net/stream/c-37e48080bfb575dd220687e0594f0575-3.mp3",
+      "rank": 107632,
+      "ids": {
+        "from": "deezer",
+        "track": 886181832,
+        "album": 133224762,
+        "artist": 13564
+      },
+      "rating": 85
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Alter Echo",
+      "title": "In The Blood",
+      "url": "https://cdns-preview-a.dzcdn.net/stream/c-aee9160b98d179586ae1b01a31f1bcce-3.mp3",
+      "rank": 140580,
+      "ids": {
+        "from": "deezer",
+        "track": 886181842,
+        "album": 133224762,
+        "artist": 13564
+      },
+      "rating": 93
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Alter Echo",
+      "title": "Boy Doom",
+      "url": "https://cdns-preview-d.dzcdn.net/stream/c-d2785f71160cabc3650c594cb37a81f5-3.mp3",
+      "rank": 129367,
+      "ids": {
+        "from": "deezer",
+        "track": 886181852,
+        "album": 133224762,
+        "artist": 13564
+      },
+      "rating": 84
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Alter Echo",
+      "title": "The Middle",
+      "url": "https://cdns-preview-3.dzcdn.net/stream/c-3f84d61a0a5b4be564636c5a0af1f6fd-3.mp3",
+      "rank": 233180,
+      "ids": {
+        "from": "deezer",
+        "track": 886181862,
+        "album": 133224762,
+        "artist": 13564
+      },
+      "rating": 98
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Alter Echo",
+      "title": "California Rain",
+      "url": "https://cdns-preview-b.dzcdn.net/stream/c-b673ed72d758d7eed37906464aea1d94-3.mp3",
+      "rank": 138457,
+      "ids": {
+        "from": "deezer",
+        "track": 886181872,
+        "album": 133224762,
+        "artist": 13564
+      },
+      "rating": 77
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Alter Echo",
+      "title": "Amelia - Part 1: Nothing They Do They Do For You",
+      "url": "https://cdns-preview-d.dzcdn.net/stream/c-d0ea2678208d33167f9d006bbb170b61-3.mp3",
+      "rank": 269223,
+      "ids": {
+        "from": "deezer",
+        "track": 886181882,
+        "album": 133224762,
+        "artist": 13564
+      },
+      "rating": 92
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Alter Echo",
+      "title": "Amelia - Part 2: The Path Of Least Existence",
+      "url": "https://cdns-preview-e.dzcdn.net/stream/c-e4d187b5b5a353b01b6351e0296f5e35-3.mp3",
+      "rank": 110563,
+      "ids": {
+        "from": "deezer",
+        "track": 886181892,
+        "album": 133224762,
+        "artist": 13564
+      },
+      "rating": 63
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Alter Echo",
+      "title": "Amelia - Part 3: Lights Out",
+      "url": "https://cdns-preview-6.dzcdn.net/stream/c-6629a6e1db5edd05b56f842e0ab46928-3.mp3",
+      "rank": 103857,
+      "ids": {
+        "from": "deezer",
+        "track": 886181902,
+        "album": 133224762,
+        "artist": 13564
+      },
+      "rating": 70
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Alter Echo",
+      "title": "Amelia - Part 4: All Saints Are Sinners",
+      "url": "https://cdns-preview-6.dzcdn.net/stream/c-6fd974456cac8dcbed61c6450248c46f-3.mp3",
+      "rank": 109751,
+      "ids": {
+        "from": "deezer",
+        "track": 886181912,
+        "album": 133224762,
+        "artist": 13564
+      },
+      "rating": 73
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Alter Echo",
+      "title": "Amelia - Part 5: Alter Echo",
+      "url": "https://cdns-preview-5.dzcdn.net/stream/c-5fcb21f30da724ec1537f6771f3ff581-3.mp3",
+      "rank": 107532,
+      "ids": {
+        "from": "deezer",
+        "track": 886181922,
+        "album": 133224762,
+        "artist": 13564
+      },
+      "rating": 65
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Forward In Reverse",
+      "title": "Phlying Pharaoh",
+      "url": "https://cdns-preview-4.dzcdn.net/stream/c-4d0052f3b8bf3f7f22a22e58ad3d07f4-3.mp3",
+      "rank": 111951,
+      "ids": {
+        "from": "deezer",
+        "track": 121930564,
+        "album": 12753726,
+        "artist": 13564
+      },
+      "rating": 41
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Forward In Reverse",
+      "title": "Forward In Reverse",
+      "url": "https://cdns-preview-a.dzcdn.net/stream/c-a07c423677454aa0050d886d9b3691ac-5.mp3",
+      "rank": 104412,
+      "ids": {
+        "from": "deezer",
+        "track": 121930568,
+        "album": 12753726,
+        "artist": 13564
+      },
+      "rating": 87
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Forward In Reverse",
+      "title": "Terrified In Paradise",
+      "url": "https://cdns-preview-f.dzcdn.net/stream/c-f8644a7182eaf0fb7b8389daeed909f3-3.mp3",
+      "rank": 114024,
+      "ids": {
+        "from": "deezer",
+        "track": 121930574,
+        "album": 12753726,
+        "artist": 13564
+      },
+      "rating": 79
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Forward In Reverse",
+      "title": "Brainless",
+      "url": "https://cdns-preview-2.dzcdn.net/stream/c-2ad43b2461fa0ebcc4e3ecdba4bf3d4b-3.mp3",
+      "rank": 139104,
+      "ids": {
+        "from": "deezer",
+        "track": 121930578,
+        "album": 12753726,
+        "artist": 13564
+      },
+      "rating": 78
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Forward In Reverse",
+      "title": "Something So Familiar",
+      "url": "https://cdns-preview-6.dzcdn.net/stream/c-6288780c883759da040affd524b0d19e-3.mp3",
+      "rank": 114829,
+      "ids": {
+        "from": "deezer",
+        "track": 121930582,
+        "album": 12753726,
+        "artist": 13564
+      },
+      "rating": 91
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Forward In Reverse",
+      "title": "Love At Second Sight",
+      "url": "https://cdns-preview-8.dzcdn.net/stream/c-8518008046e51a33633502c75b448d4f-4.mp3",
+      "rank": 113802,
+      "ids": {
+        "from": "deezer",
+        "track": 121930588,
+        "album": 12753726,
+        "artist": 13564
+      },
+      "rating": 72
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Forward In Reverse",
+      "title": "Made To Believe",
+      "url": "https://cdns-preview-f.dzcdn.net/stream/c-f1fcf095bb04162ce5f80db88f49b980-3.mp3",
+      "rank": 118556,
+      "ids": {
+        "from": "deezer",
+        "track": 121930592,
+        "album": 12753726,
+        "artist": 13564
+      },
+      "rating": 67
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Forward In Reverse",
+      "title": "Frey",
+      "url": "https://cdns-preview-9.dzcdn.net/stream/c-99b0b986a9b053cc4faf5fa09bf2230b-3.mp3",
+      "rank": 86982,
+      "ids": {
+        "from": "deezer",
+        "track": 121930598,
+        "album": 12753726,
+        "artist": 13564
+      },
+      "rating": 52
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Forward In Reverse",
+      "title": "Mindgasm",
+      "url": "https://cdns-preview-a.dzcdn.net/stream/c-a046b2797faf1262c22101ac2e2ffd67-5.mp3",
+      "rank": 98161,
+      "ids": {
+        "from": "deezer",
+        "track": 121930602,
+        "album": 12753726,
+        "artist": 13564
+      },
+      "rating": 50
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Forward In Reverse",
+      "title": "Fly Above The Radar",
+      "url": "https://cdns-preview-0.dzcdn.net/stream/c-0c9db3391a3a4bb21a0c8ebecf3ccf1b-3.mp3",
+      "rank": 115243,
+      "ids": {
+        "from": "deezer",
+        "track": 121930608,
+        "album": 12753726,
+        "artist": 13564
+      },
+      "rating": 55
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Forward In Reverse",
+      "title": "I Would If I Could But I Can't",
+      "url": "https://cdns-preview-6.dzcdn.net/stream/c-6eb313f6cbfc8a44b5afe34cd3a92a82-5.mp3",
+      "rank": 139016,
+      "ids": {
+        "from": "deezer",
+        "track": 121930612,
+        "album": 12753726,
+        "artist": 13564
+      },
+      "rating": 97
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Forward In Reverse",
+      "title": "Say It To Me Anyway",
+      "url": "https://cdns-preview-8.dzcdn.net/stream/c-86236327cd5e431b7fd5045da2af66f9-3.mp3",
+      "rank": 123594,
+      "ids": {
+        "from": "deezer",
+        "track": 121930616,
+        "album": 12753726,
+        "artist": 13564
+      },
+      "rating": 82
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Dizzy Mizz Lizzy",
+      "title": "Waterline",
+      "url": "https://cdns-preview-d.dzcdn.net/stream/c-d9df16c3f4fc8016f6564aceae581dd8-6.mp3",
+      "rank": 242167,
+      "ids": {
+        "from": "deezer",
+        "track": 5534730,
+        "album": 506356,
+        "artist": 13564
+      },
+      "rating": 99
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Dizzy Mizz Lizzy",
+      "title": "Barbedwired Baby's Dream",
+      "url": "https://cdns-preview-3.dzcdn.net/stream/c-33721f71afd4eb64f754cb26ddef8b86-6.mp3",
+      "rank": 155791,
+      "ids": {
+        "from": "deezer",
+        "track": 5534731,
+        "album": 506356,
+        "artist": 13564
+      },
+      "rating": 90
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Dizzy Mizz Lizzy",
+      "title": "Love Is a Loser's Game",
+      "url": "https://cdns-preview-c.dzcdn.net/stream/c-c845ebd0ad507b6e513a3bd2205d161a-9.mp3",
+      "rank": 200358,
+      "ids": {
+        "from": "deezer",
+        "track": 5534732,
+        "album": 506356,
+        "artist": 13564
+      },
+      "rating": 96
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Dizzy Mizz Lizzy",
+      "title": "Glory",
+      "url": "https://cdns-preview-3.dzcdn.net/stream/c-393e9d285524d7af82d0c7faaa3c00dc-6.mp3",
+      "rank": 197704,
+      "ids": {
+        "from": "deezer",
+        "track": 5534733,
+        "album": 506356,
+        "artist": 13564
+      },
+      "rating": 95
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Dizzy Mizz Lizzy",
+      "title": "67 Seas in Your Eyes",
+      "url": "https://cdns-preview-a.dzcdn.net/stream/c-ac63f3eec72778f82876c5ef17cafb72-6.mp3",
+      "rank": 189983,
+      "ids": {
+        "from": "deezer",
+        "track": 5534734,
+        "album": 506356,
+        "artist": 13564
+      },
+      "rating": 100
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Dizzy Mizz Lizzy",
+      "title": "Silverflame",
+      "url": "https://cdns-preview-0.dzcdn.net/stream/c-0baa0ad98702716210291274e5490af3-5.mp3",
+      "rank": 256999,
+      "ids": {
+        "from": "deezer",
+        "track": 5534735,
+        "album": 506356,
+        "artist": 13564
+      },
+      "rating": 101
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Dizzy Mizz Lizzy",
+      "title": "Love Me a Little",
+      "url": "https://cdns-preview-c.dzcdn.net/stream/c-c24991dac7a28861326a04d1c2f1d2b1-6.mp3",
+      "rank": 168921,
+      "ids": {
+        "from": "deezer",
+        "track": 5534736,
+        "album": 506356,
+        "artist": 13564
+      },
+      "rating": 94
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Dizzy Mizz Lizzy",
+      "title": "Mother Nature's Recipe",
+      "url": "https://cdns-preview-9.dzcdn.net/stream/c-9b6a8867c4694c49fca12da5a691e528-6.mp3",
+      "rank": 135231,
+      "ids": {
+        "from": "deezer",
+        "track": 5534737,
+        "album": 506356,
+        "artist": 13564
+      },
+      "rating": 69
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Dizzy Mizz Lizzy",
+      "title": "...And so Did I",
+      "url": "https://cdns-preview-8.dzcdn.net/stream/c-80e576ce58a633f12106ba7d66fdb103-6.mp3",
+      "rank": 129360,
+      "ids": {
+        "from": "deezer",
+        "track": 5534738,
+        "album": 506356,
+        "artist": 13564
+      },
+      "rating": 64
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Dizzy Mizz Lizzy",
+      "title": "Wishing Well",
+      "url": "https://cdns-preview-d.dzcdn.net/stream/c-dce9c6f4f13f8fa56050c21ba19d3df6-5.mp3",
+      "rank": 108683,
+      "ids": {
+        "from": "deezer",
+        "track": 5534739,
+        "album": 506356,
+        "artist": 13564
+      },
+      "rating": 62
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Dizzy Mizz Lizzy",
+      "title": "Hidden War",
+      "url": "https://cdns-preview-d.dzcdn.net/stream/c-d92933f3286c3e8336c89d40d9e03914-5.mp3",
+      "rank": 114974,
+      "ids": {
+        "from": "deezer",
+        "track": 5534740,
+        "album": 506356,
+        "artist": 13564
+      },
+      "rating": 76
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Dizzy Mizz Lizzy",
+      "title": "For God's Sake",
+      "url": "https://cdns-preview-7.dzcdn.net/stream/c-73b8e7ef842eebec1c1c50d1c7e38e32-5.mp3",
+      "rank": 111158,
+      "ids": {
+        "from": "deezer",
+        "track": 5534741,
+        "album": 506356,
+        "artist": 13564
+      },
+      "rating": 66
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Dizzy Mizz Lizzy",
+      "title": "Too Close to Stab",
+      "url": "https://cdns-preview-4.dzcdn.net/stream/c-4eaf68495e40f930a07cf7b281c1d66e-5.mp3",
+      "rank": 89231,
+      "ids": {
+        "from": "deezer",
+        "track": 5534742,
+        "album": 506356,
+        "artist": 13564
+      },
+      "rating": 53
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Rotator",
+      "title": "Thorn in My Pride",
+      "url": "https://cdns-preview-a.dzcdn.net/stream/c-a12883249f5a3cf6ac951b755e59efbc-8.mp3",
+      "rank": 123157,
+      "ids": {
+        "from": "deezer",
+        "track": 5534761,
+        "album": 506359,
+        "artist": 13564
+      },
+      "rating": 49
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Rotator",
+      "title": "Run",
+      "url": "https://cdns-preview-b.dzcdn.net/stream/c-b004017ccdcbadb6d31dfbd0ce4bbaea-8.mp3",
+      "rank": 78222,
+      "ids": {
+        "from": "deezer",
+        "track": 5534762,
+        "album": 506359,
+        "artist": 13564
+      },
+      "rating": 88
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Rotator",
+      "title": "Rotator",
+      "url": "https://cdns-preview-1.dzcdn.net/stream/c-12e1b06ff9ff9481626faec80f8a8df4-7.mp3",
+      "rank": 80061,
+      "ids": {
+        "from": "deezer",
+        "track": 5534763,
+        "album": 506359,
+        "artist": 13564
+      },
+      "rating": 58
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Rotator",
+      "title": "11:07 PM",
+      "url": "https://cdns-preview-9.dzcdn.net/stream/c-99619bb191985892f26e73d9cf12d6de-7.mp3",
+      "rank": 64969,
+      "ids": {
+        "from": "deezer",
+        "track": 5534764,
+        "album": 506359,
+        "artist": 13564
+      },
+      "rating": 81
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Rotator",
+      "title": "Back-Bone-Beat",
+      "url": "https://cdns-preview-b.dzcdn.net/stream/c-bbe967c6d4f60b0919827487c05a2fb5-8.mp3",
+      "rank": 93650,
+      "ids": {
+        "from": "deezer",
+        "track": 5534765,
+        "album": 506359,
+        "artist": 13564
+      },
+      "rating": 46
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Rotator",
+      "title": "When the River Runs Dry",
+      "url": "https://cdns-preview-8.dzcdn.net/stream/c-8e42e5fff6ebd2c0f9d0875735a00c04-7.mp3",
+      "rank": 28133,
+      "ids": {
+        "from": "deezer",
+        "track": 5534766,
+        "album": 506359,
+        "artist": 13564
+      },
+      "rating": 28
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Rotator",
+      "title": "Break",
+      "url": "https://cdns-preview-3.dzcdn.net/stream/c-3e32e4da7b9f946179c6b1bd9ddb2ec1-5.mp3",
+      "rank": 40782,
+      "ids": {
+        "from": "deezer",
+        "track": 5534767,
+        "album": 506359,
+        "artist": 13564
+      },
+      "rating": 35
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Rotator",
+      "title": "I Like Surprises",
+      "url": "https://cdns-preview-0.dzcdn.net/stream/c-0a3652435ce599dd704f9836ba500440-4.mp3",
+      "rank": 37352,
+      "ids": {
+        "from": "deezer",
+        "track": 5534778,
+        "album": 506359,
+        "artist": 13564
+      },
+      "rating": 48
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Rotator",
+      "title": "Riff sang",
+      "url": "https://cdns-preview-6.dzcdn.net/stream/c-670a9e020db7589cd589dac527a68f71-4.mp3",
+      "rank": 69810,
+      "ids": {
+        "from": "deezer",
+        "track": 5534779,
+        "album": 506359,
+        "artist": 13564
+      },
+      "rating": 44
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Rotator",
+      "title": "Take It or Leave It",
+      "url": "https://cdns-preview-c.dzcdn.net/stream/c-cfdfdf28c1d94113a3352404c8fa087a-4.mp3",
+      "rank": 37891,
+      "ids": {
+        "from": "deezer",
+        "track": 5534780,
+        "album": 506359,
+        "artist": 13564
+      },
+      "rating": 89
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Rotator",
+      "title": "Find My Way",
+      "url": "https://cdns-preview-f.dzcdn.net/stream/c-f2d6079fbdb3fd8e66e64bf1aa5679d0-5.mp3",
+      "rank": 39875,
+      "ids": {
+        "from": "deezer",
+        "track": 5534781,
+        "album": 506359,
+        "artist": 13564
+      },
+      "rating": 56
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Rotator",
+      "title": "Two of You",
+      "url": "https://cdns-preview-0.dzcdn.net/stream/c-09265137eec6c6f4f93d00e1c98c13d6-5.mp3",
+      "rank": 40646,
+      "ids": {
+        "from": "deezer",
+        "track": 5534782,
+        "album": 506359,
+        "artist": 13564
+      },
+      "rating": 26
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Rotator",
+      "title": "Rise and Fall",
+      "url": "https://cdns-preview-9.dzcdn.net/stream/c-99542cc1957ab727b5542912df71ccb8-7.mp3",
+      "rank": 7083,
+      "ids": {
+        "from": "deezer",
+        "track": 5534783,
+        "album": 506359,
+        "artist": 13564
+      },
+      "rating": 39
+    },
+    {
+      "artist": "Dizzy Mizz Lizzy",
+      "album": "Rotator",
+      "title": "Outro",
+      "url": "https://cdns-preview-3.dzcdn.net/stream/c-361583a79c613494dff6933b0fd33df4-6.mp3",
+      "rank": 29245,
+      "ids": {
+        "from": "deezer",
+        "track": 5534784,
+        "album": 506359,
+        "artist": 13564
+      },
+      "rating": 33
+    }
+  ]
+}

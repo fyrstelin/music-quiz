@@ -1,0 +1,38 @@
+h1 {
+  text-align: center;
+  font-size: 3rem;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2.5rem;
+}
+
+ion-item-divider {
+  position: sticky;
+  top: 0;
+}
+
+.mq-buttons {
+  margin: 8px;
+
+  display: grid;
+  grid-gap: 10px;
+  justify-content: center;
+  grid-template-columns: repeat(auto-fit, minmax(250px, auto));
+}
+
+
+.quiz-card {
+  max-width: 560px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10vh;
+}
+
+
+.version {
+  position: fixed;
+  bottom: 8px;
+  left: 8px;
+}
